@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "description": ":fire::fire::fire: Last Updated on 2026.05.06 :fire::fire::fire:",
+      "items": [],
+      "title": "📢 Latest Updates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing Vision Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing Vision-Language Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing Generative Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing Vision-Location Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing Vision-Audio Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing Agents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks for RSFMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "(Large-scale) Pre-training Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embeddings data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Relevant Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey/Commentary Papers"
+    },
+    {
+      "description": "If you find this repository useful, please consider giving a star :star: and citation:",
+      "items": [],
+      "title": "Citation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:13.645Z",
+    "original_repository": "Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models",
+    "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Remote-Sensing-Foundation-Models",
+    "enhanced_repository_description": null,
+    "title": "Awesome Remote Sensing Foundation Models with stars"
+  }
+}
