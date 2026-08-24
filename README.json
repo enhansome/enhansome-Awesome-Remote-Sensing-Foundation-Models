@@ -1,7 +1,2963 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoKR",
+          "description": "Geographical Knowledge-Driven Representation Learning for Remote Sensing Images TGRS2021 GeoKR link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332403593,
+            "language": "Python",
+            "last_commit": "2023-10-23T09:47:14Z",
+            "owner": "flyakon",
+            "repo": "Geographical-Knowledge-driven-Representaion-Learning",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding CVPRW2021 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357312940,
+            "language": "Python",
+            "last_commit": "2024-02-02T16:11:18Z",
+            "owner": "vladan-stojnic",
+            "repo": "CMC-RSSR",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GASSL",
+          "description": "Geography-Aware Self-Supervised Learning ICCV2021 GASSL link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411170717,
+            "language": "Python",
+            "last_commit": "2022-12-01T05:24:26Z",
+            "owner": "sustainlab-group",
+            "repo": "geography-aware-ssl",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeCo",
+          "description": "Seasonal Contrast: Unsupervised Pre-Training From Uncurated Remote Sensing Data ICCV2021 SeCo link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 310325086,
+            "language": "Python",
+            "last_commit": "2024-07-25T11:10:00Z",
+            "owner": "ServiceNow",
+            "repo": "seasonal-contrast",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSP",
+          "description": "An Empirical Study of Remote Sensing Pretraining TGRS2022 RSP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520325311,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:28:43Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "Remote-Sensing-RVSA",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MATTER",
+          "description": "Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks CVPR2022 MATTER link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468461807,
+            "language": "Python",
+            "last_commit": "2022-06-29T18:32:11Z",
+            "owner": "periakiva",
+            "repo": "MATTER",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Self-supervised Vision Transformers for Land-cover Segmentation and Classification CVPRW2022 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481643890,
+            "language": "Python",
+            "last_commit": "2023-01-23T14:17:20Z",
+            "owner": "HSG-AIML",
+            "repo": "SSLTransformerRS",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DINO-MM",
+          "description": "Self-Supervised Vision Transformers for Joint SAR-Optical Representation Learning IGARSS2022 DINO-MM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 498492171,
+            "language": "Python",
+            "last_commit": "2023-10-08T13:44:35Z",
+            "owner": "zhu-xlab",
+            "repo": "DINO-MM",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeCo",
+          "description": "Geographical Supervision Correction for Remote Sensing Representation Learning TGRS2022 GeCo link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334864605,
+            "language": "Python",
+            "last_commit": "2024-06-08T03:29:12Z",
+            "owner": "GeoX-Lab",
+            "repo": "G-RSIM",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RingMo",
+          "description": "RingMo: A remote sensing foundation model with masked image modeling TGRS2022 RingMo Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631281394,
+            "language": "Python",
+            "last_commit": "2026-02-02T07:33:27Z",
+            "owner": "comeony",
+            "repo": "RingMo",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSPT",
+          "description": "Consecutive Pre-Training: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain RS2022 CSPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 505796452,
+            "language": "Python",
+            "last_commit": "2023-12-04T11:06:06Z",
+            "owner": "ZhAnGToNG1",
+            "repo": "transfer_learning_cspt",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RVSA",
+          "description": "Advancing plain vision transformer toward remote sensing foundation model TGRS2022 RVSA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520325311,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:28:43Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "Remote-Sensing-RVSA",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatMAE",
+          "description": "SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery NeurIPS2022 SatMAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560154265,
+            "language": "Python",
+            "last_commit": "2025-08-10T22:07:05Z",
+            "owner": "sustainlab-group",
+            "repo": "SatMAE",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DINO-MC",
+          "description": "Extending Global-Local View Alignment for Self-Supervised Learning with Remote Sensing Imagery Arxiv2023 DINO-MC link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608819890,
+            "language": "Python",
+            "last_commit": "2023-08-01T04:02:11Z",
+            "owner": "WennyXY",
+            "repo": "DINO-MC",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMID",
+          "description": "CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding TGRS2023 CMID link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584791471,
+            "language": "Python",
+            "last_commit": "2024-10-26T12:51:40Z",
+            "owner": "NJU-LHRS",
+            "repo": "official-CMID",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presto",
+          "description": "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries Arxiv2023 Presto link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633346572,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-10T10:58:50Z",
+            "owner": "nasaharvest",
+            "repo": "presto",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOV",
+          "description": "TOV: The original vision model for optical remote sensing image understanding via self-supervised learning JSTARS2023 TOV link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334864605,
+            "language": "Python",
+            "last_commit": "2024-06-08T03:29:12Z",
+            "owner": "GeoX-Lab",
+            "repo": "G-RSIM",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CACo",
+          "description": "Change-Aware Sampling and Contrastive Learning for Satellite Images CVPR2023 CACo link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 654715157,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-04T01:35:55Z",
+            "owner": "utkarshmall13",
+            "repo": "CACo",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatLas",
+          "description": "SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding ICCV2023 SatLas link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 586041627,
+            "language": "Python",
+            "last_commit": "2026-03-27T15:20:53Z",
+            "owner": "allenai",
+            "repo": "satlas",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GFM",
+          "description": "Towards Geospatial Foundation Models via Continual Pretraining ICCV2023 GFM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679564624,
+            "language": "Python",
+            "last_commit": "2023-11-01T20:16:01Z",
+            "owner": "mmendiet",
+            "repo": "GFM",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scale-MAE",
+          "description": "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning ICCV2023 Scale-MAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596748566,
+            "language": "Python",
+            "last_commit": "2024-02-17T02:25:04Z",
+            "owner": "bair-climate-initiative",
+            "repo": "scale-mae",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthPT",
+          "description": "EarthPT: a time series foundation model for Earth Observation NeurIPS2023 CCAI workshop EarthPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674380071,
+            "language": "Python",
+            "last_commit": "2024-03-08T14:53:59Z",
+            "owner": "aspiaspace",
+            "repo": "earthPT",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CROMA",
+          "description": "CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders NeurIPS2023 CROMA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705803073,
+            "language": "Python",
+            "last_commit": "2024-01-10T14:58:47Z",
+            "owner": "antofuller",
+            "repo": "CROMA",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross-Scale MAE",
+          "description": "Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing NeurIPS2023 Cross-Scale MAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743695204,
+            "language": "Python",
+            "last_commit": "2024-01-15T19:43:25Z",
+            "owner": "aicip",
+            "repo": "Cross-Scale-MAE",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USat",
+          "description": "USat: A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery Arxiv2023 USat link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726331108,
+            "language": "Python",
+            "last_commit": "2024-02-22T16:33:37Z",
+            "owner": "stanfordmlgroup",
+            "repo": "USat",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeRSP",
+          "description": "Generic Knowledge Boosted Pretraining for Remote Sensing Images TGRS2024 GeRSP GeRSP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 741048591,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-04T05:53:19Z",
+            "owner": "floatingstarZ",
+            "repo": "GeRSP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMLFR",
+          "description": "Generative ConvNet Foundation Model With Sparse Modeling and Low-Frequency Reconstruction for Remote Sensing Image Interpretation TGRS2024 SMLFR link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697161379,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-08T08:22:59Z",
+            "owner": "HIT-SIRS",
+            "repo": "SMLFR",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpectralGPT",
+          "description": "SpectralGPT: Spectral Remote Sensing Foundation Model TPAMI2024 SpectralGPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 756595666,
+            "language": "Python",
+            "last_commit": "2024-12-28T15:22:33Z",
+            "owner": "danfenghong",
+            "repo": "IEEE_TPAMI_SpectralGPT",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOFA",
+          "description": "Neural Plasticity-Inspired Multimodal Foundation Model for Earth Observation Arxiv2024 DOFA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775866179,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-22T10:46:18Z",
+            "owner": "zhu-xlab",
+            "repo": "DOFA",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydro",
+          "description": "Hydro--A Foundation Model for Water in Satellite Imagery Arxiv2024 null link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 765798961,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-04T14:12:12Z",
+            "owner": "isaaccorley",
+            "repo": "hydro-foundation-model",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatMAE++",
+          "description": "Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery CVPR2024 SatMAE++ link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768175197,
+            "language": "Python",
+            "last_commit": "2025-09-30T14:43:17Z",
+            "owner": "techmn",
+            "repo": "satmae_pp",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msGFM",
+          "description": "Bridging Remote Sensors with Multisensor Geospatial Foundation Models CVPR2024 msGFM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769764248,
+            "language": "Python",
+            "last_commit": "2024-04-02T16:55:25Z",
+            "owner": "boranhan",
+            "repo": "Geospatial_Foundation_Models",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkySense",
+          "description": "SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery CVPR2024 SkySense link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1033100532,
+            "language": "Python",
+            "last_commit": "2025-09-23T14:39:47Z",
+            "owner": "Jack-bo1220",
+            "repo": "SkySense",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTP",
+          "description": "MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining IEEE JSTARS2024 MTP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 773801879,
+            "language": "Python",
+            "last_commit": "2025-08-04T10:07:44Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "MTP",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeMeViT",
+          "description": "LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation IJCAI2024 LeMeViT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 792951970,
+            "language": "Python",
+            "last_commit": "2024-11-11T02:58:22Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "LeMeViT",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAR-JEPA",
+          "description": "Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture ISPRS JPRS2024 SAR-JEPA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752193336,
+            "language": "Python",
+            "last_commit": "2026-04-05T03:24:44Z",
+            "owner": "waterdisappear",
+            "repo": "SAR-JEPA",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeCUR",
+          "description": "DeCUR: decoupling common & unique representations for multimodal self-supervision ECCV2024 DeCUR link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674371492,
+            "language": "Python",
+            "last_commit": "2024-08-14T20:07:46Z",
+            "owner": "zhu-xlab",
+            "repo": "DeCUR",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniSat",
+          "description": "OmniSat: Self-Supervised Modality Fusion for Earth Observation ECCV2024 OmniSat link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784618070,
+            "language": "Python",
+            "last_commit": "2024-10-24T08:14:48Z",
+            "owner": "gastruc",
+            "repo": "OmniSat",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MA3E",
+          "description": "Masked Angle-Aware Autoencoder for Remote Sensing Images ECCV2024 MA3E link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 823907839,
+            "language": "Python",
+            "last_commit": "2024-11-12T02:50:17Z",
+            "owner": "benesakitam",
+            "repo": "MA3E",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftCon",
+          "description": "Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining TGRS2024 SoftCon link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 808116241,
+            "language": "Python",
+            "last_commit": "2024-06-03T07:43:39Z",
+            "owner": "zhu-xlab",
+            "repo": "softcon",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIS",
+          "description": "Pretrain a Remote Sensing Foundation Model by Promoting Intra-instance Similarity TGRS2024 PIS link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769024400,
+            "language": "Python",
+            "last_commit": "2024-03-25T07:38:28Z",
+            "owner": "ShawnAn-WHU",
+            "repo": "PIS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FG-MAE",
+          "description": "Feature Guided Masked Autoencoder for Self-Supervised Learning in Remote Sensing IEEE JSTARS2024 FG-MAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674366864,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-03T19:59:40Z",
+            "owner": "zhu-xlab",
+            "repo": "FGMAE",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatVision-TOA",
+          "description": "SatVision-TOA: A Geospatial Foundation Model for Coarse-Resolution All-Sky Remote Sensing Imagery Arxiv2024 SatVision-TOA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472450059,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-26T20:04:47Z",
+            "owner": "nasa-nccs-hpda",
+            "repo": "pytorch-caney",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoMo",
+          "description": "FoMo: Multi-Modal, Multi-Scale and Multi-Task Remote Sensing Foundation Models for Forest Monitoring AAAI2025 FoMo link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777611968,
+            "language": "Python",
+            "last_commit": "2025-03-14T17:45:29Z",
+            "owner": "RolnickLab",
+            "repo": "FoMo-Bench",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SARATR-X",
+          "description": "SARATR-X: Toward Building a Foundation Model for SAR Target Recognition IEEE TIP2025 SARATR-X link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 844049042,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T14:56:51Z",
+            "owner": "waterdisappear",
+            "repo": "SARATR-X",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatMamba",
+          "description": "SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models Arxiv2025 SatMamba link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856716301,
+            "language": "Python",
+            "last_commit": "2025-02-04T06:50:31Z",
+            "owner": "mdchuc",
+            "repo": "HRSFM",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamicVis",
+          "description": "DynamicVis: Dynamic Visual Perception for Efficient Remote Sensing Foundation Models Arxiv2025 DynamicVis link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 951888072,
+            "language": "Python",
+            "last_commit": "2026-01-25T11:54:40Z",
+            "owner": "KyanChen",
+            "repo": "DynamicVis",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SenPa-MAE",
+          "description": "SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining LNCS2025 SenPa-MAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 836702276,
+            "language": "Python",
+            "last_commit": "2025-02-07T16:41:33Z",
+            "owner": "JonathanPrexl",
+            "repo": "SenPa-MAE",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperSIGMA",
+          "description": "HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model IEEE TPAMI2025 HyperSIGMA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 798255064,
+            "language": "Python",
+            "last_commit": "2026-05-20T03:24:09Z",
+            "owner": "WHU-Sigma",
+            "repo": "HyperSIGMA",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperSL",
+          "description": "HyperSL: A Spectral Foundation Model for Hyperspectral Image Interpretation IEEE TGRS2025 HyperSL link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941783160,
+            "language": "Python",
+            "last_commit": "2026-02-03T05:59:56Z",
+            "owner": "kkweil",
+            "repo": "HyperSL",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TiMo",
+          "description": "TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series Arxiv2025 TiMo link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981889664,
+            "language": "Python",
+            "last_commit": "2026-06-30T13:46:33Z",
+            "owner": "MiliLab",
+            "repo": "TiMo",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panopticon",
+          "description": "Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation CVPRW2025 (EarthVision Best Paper) Panopticon link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948106044,
+            "language": "Python",
+            "last_commit": "2025-10-03T08:51:31Z",
+            "owner": "Panopticon-FM",
+            "repo": "panopticon",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperFree",
+          "description": "HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery CVPR2025 HyperFree link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 954547975,
+            "language": "Python",
+            "last_commit": "2025-12-03T03:25:34Z",
+            "owner": "Jingtao-Li-CVer",
+            "repo": "HyperFree",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpectralEarth",
+          "description": "SpectralEarth: Training Hyperspectral Foundation Models at Scale IEEE JSTARS2025 SpectralEarth link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 808116241,
+            "language": "Python",
+            "last_commit": "2024-06-03T07:43:39Z",
+            "owner": "zhu-xlab",
+            "repo": "softcon",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnySat",
+          "description": "AnySat: One Earth Observation Model for Many Resolutions, Scales, and Modalities CVPR2025 AnySat link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 904124170,
+            "language": "Python",
+            "last_commit": "2025-10-16T07:44:11Z",
+            "owner": "gastruc",
+            "repo": "AnySat",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraFM",
+          "description": "TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation Arxiv2025 TerraFM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 996154937,
+            "language": "Python",
+            "last_commit": "2025-06-09T05:14:54Z",
+            "owner": "mbzuai-oryx",
+            "repo": "TerraFM",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Galileo",
+          "description": "Galileo: Learning Global & Local Features of Many Remote Sensing Modalities ICML2025 TerraBytes Workshop Galileo link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 920740479,
+            "language": "Python",
+            "last_commit": "2026-04-21T16:12:08Z",
+            "owner": "nasaharvest",
+            "repo": "galileo",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepAndes",
+          "description": "DeepAndes: A Self-Supervised Vision Foundation Model for Multispectral Remote Sensing Imagery of the Andes IEEE JSTARS2025 DeepAndes link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965874434,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T04:10:33Z",
+            "owner": "geopacha",
+            "repo": "DeepAndes",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RingMamba",
+          "description": "RingMamba: Remote Sensing Multisensor Pretraining With Visual State Space Model IEEE TGRS2025 RingMamba link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 809751627,
+            "language": "Python",
+            "last_commit": "2024-06-04T03:40:14Z",
+            "owner": "ningerhhh",
+            "repo": "RIFR",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkySense++",
+          "description": "A semantic-enhanced multi-modal remote sensing foundation model for Earth observation Nature Machine Intelligence 2025 SkySense++ link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883183160,
+            "language": "Python",
+            "last_commit": "2025-09-18T08:11:15Z",
+            "owner": "kang-wu",
+            "repo": "SkySensePlusPlus",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatDiFuser",
+          "description": "Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? ICCV2025 SatDiFuser link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1022982110,
+            "language": "Python",
+            "last_commit": "2025-09-16T13:01:30Z",
+            "owner": "yurujaja",
+            "repo": "SatDiFuser",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copernicus-FM",
+          "description": "Towards a Unified Copernicus Foundation Model for Earth Vision ICCV2025 Copernicus-FM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948371619,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-02T15:44:30Z",
+            "owner": "zhu-xlab",
+            "repo": "Copernicus-FM",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraMind",
+          "description": "TerraMind: Large-Scale Generative Multimodality for Earth Observation ICCV2025 TerraMind link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969483295,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T00:39:55Z",
+            "owner": "IBM",
+            "repo": "terramind",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SelectiveMAE",
+          "description": "Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling ICCV2025 SelectiveMAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810868784,
+            "language": "Python",
+            "last_commit": "2025-08-12T15:37:22Z",
+            "owner": "MiliLab",
+            "repo": "SelectiveMAE",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoMA",
+          "description": "RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing NeurIPS2025 RoMA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947748008,
+            "language": "Python",
+            "last_commit": "2026-04-20T07:24:39Z",
+            "owner": "MiliLab",
+            "repo": "RoMA",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoLink",
+          "description": "GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data NeurIPS2025 GeoLink link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066367724,
+            "language": "Python",
+            "last_commit": "2025-10-06T08:59:39Z",
+            "owner": "bailubin",
+            "repo": "GeoLink_NeurIPS2025",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrossEarth",
+          "description": "CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation IEEE TPAMI2025 CrossEarth link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 780007934,
+            "language": "Python",
+            "last_commit": "2026-04-02T07:52:53Z",
+            "owner": "VisionXLab",
+            "repo": "CrossEarth",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAPEX",
+          "description": "MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models IEEE TGRS2026 MAPEX link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1013358675,
+            "language": null,
+            "last_commit": "2025-07-16T15:56:33Z",
+            "owner": "HSG-AIML",
+            "repo": "MAPEX",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAESTRO",
+          "description": "MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data WACV2026 MAESTRO link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1038019744,
+            "language": "Python",
+            "last_commit": "2026-08-03T15:50:14Z",
+            "owner": "IGNF",
+            "repo": "MAESTRO",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "THOR",
+          "description": "THOR: A Versatile Foundation Model for Earth Observation Climate and Society Applications Arxiv2026 THOR link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1103167968,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-24T15:37:34Z",
+            "owner": "FM4CS",
+            "repo": "THOR",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgriFM",
+          "description": "AgriFM: A multi-source temporal remote sensing foundation model for Agriculture mapping RSE2026 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991071285,
+            "language": "Python",
+            "last_commit": "2026-06-16T12:21:27Z",
+            "owner": "flyakon",
+            "repo": "AgriFM",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIGMAE",
+          "description": "SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing Arxiv2026 SIGMAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1041248525,
+            "language": null,
+            "last_commit": "2025-08-20T07:51:15Z",
+            "owner": "zxk688",
+            "repo": "SIGMAE",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrossEarth-SAR",
+          "description": "CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation Arxiv2026 CrossEarth-SAR link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1111588014,
+            "language": "Python",
+            "last_commit": "2026-03-18T11:52:05Z",
+            "owner": "VisionXLab",
+            "repo": "CrossEarth-SAR",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOMO",
+          "description": "MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications CVPR2026 MOMO link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1044507136,
+            "language": "Python",
+            "last_commit": "2026-06-28T07:26:35Z",
+            "owner": "kerner-lab",
+            "repo": "MOMO",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TESSERA",
+          "description": "TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis CVPR2026 TESSERA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974875386,
+            "language": "Python",
+            "last_commit": "2026-08-17T01:32:22Z",
+            "owner": "ucam-eo",
+            "repo": "tessera",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OlmoEarth",
+          "description": "OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation CVPR2026 OlmoEarth link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 916304113,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:05:12Z",
+            "owner": "allenai",
+            "repo": "olmoearth_pretrain",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAMEN",
+          "description": "RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation CVPR2026 RAMEN link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109079292,
+            "language": "Python",
+            "last_commit": "2026-03-05T11:45:16Z",
+            "owner": "nicolashoudre",
+            "repo": "RAMEN",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SARMAE",
+          "description": "SARMAE: Masked Autoencoder for SAR Representation Learning CVPR2026 SARMAE link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101342136,
+            "language": "Python",
+            "last_commit": "2026-04-15T19:29:56Z",
+            "owner": "MiliLab",
+            "repo": "SARMAE",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Remote Sensing Vision Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs Arxiv2023 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 723063457,
+            "language": null,
+            "last_commit": "2025-05-24T10:53:07Z",
+            "owner": "jonathan-roberts1",
+            "repo": "charting-new-territories",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models Arxiv2024 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682001807,
+            "language": "Python",
+            "last_commit": "2024-03-27T01:30:54Z",
+            "owner": "HaonanGuo",
+            "repo": "Remote-Sensing-ChatGPT",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyCLIP",
+          "description": "SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing AAAI2024 SkyCLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 733467166,
+            "language": "Python",
+            "last_commit": "2024-12-10T02:17:16Z",
+            "owner": "wangzhecheng",
+            "repo": "SkyScript",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoRSCLIP",
+          "description": "RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing IEEE TGRS2024 GeoRSCLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655027902,
+            "language": "Python",
+            "last_commit": "2025-03-17T03:05:40Z",
+            "owner": "om-ai-lab",
+            "repo": "RS5M",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RemoteCLIP",
+          "description": "RemoteCLIP: A Vision Language Foundation Model for Remote Sensing IEEE TGRS2024 RemoteCLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666706303,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-27T12:07:35Z",
+            "owner": "ChenDelong1999",
+            "repo": "RemoteCLIP",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthGPT",
+          "description": "EarthGPT: A Universal Multimodal Large Language Model for Multisensor Image Comprehension in Remote Sensing Domain IEEE TGRS2024 EarthGPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768505790,
+            "language": null,
+            "last_commit": "2026-01-12T03:39:36Z",
+            "owner": "wivizhang",
+            "repo": "EarthGPT",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthMarker",
+          "description": "EarthMarker: A Visual Prompting Multi-modal Large Language Model for Remote Sensing IEEE TGRS2024 EarthMarker link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 830368093,
+            "language": null,
+            "last_commit": "2025-01-06T08:58:03Z",
+            "owner": "wivizhang",
+            "repo": "EarthMarker",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RS-LLaVA",
+          "description": "RS-LLaVA: Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery RS2024 RS-LLaVA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 780414013,
+            "language": "Python",
+            "last_commit": "2025-10-21T10:19:42Z",
+            "owner": "BigData-KSU",
+            "repo": "RS-LLaVA",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoChat",
+          "description": "GeoChat: Grounded Large Vision-Language Model for Remote Sensing CVPR2024 GeoChat link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 722562594,
+            "language": "Python",
+            "last_commit": "2024-11-28T12:05:13Z",
+            "owner": "mbzuai-oryx",
+            "repo": "GeoChat",
+            "stars": 743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkySenseGPT",
+          "description": "SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding Arxiv2024 SkySenseGPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811150604,
+            "language": "Python",
+            "last_commit": "2026-01-19T15:57:51Z",
+            "owner": "Luo-Z13",
+            "repo": "SkySense-Chat",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoText",
+          "description": "Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching ECCV2024 GeoText link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827635940,
+            "language": "Python",
+            "last_commit": "2026-07-07T08:00:54Z",
+            "owner": "MultimodalGeo",
+            "repo": "GeoText-1652",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LHRS-Bot",
+          "description": "LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model ECCV2024 LHRS-Bot link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 751703018,
+            "language": "Python",
+            "last_commit": "2025-03-04T09:10:08Z",
+            "owner": "NJU-LHRS",
+            "repo": "LHRS-Bot",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoGround",
+          "description": "GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding Arxiv2024 GeoGround link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 889290077,
+            "language": null,
+            "last_commit": "2025-05-10T15:59:01Z",
+            "owner": "VisionXLab",
+            "repo": "GeoGround",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VHM",
+          "description": "VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis AAAI2025 VHM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779227122,
+            "language": "Python",
+            "last_commit": "2026-03-25T07:54:01Z",
+            "owner": "opendatalab",
+            "repo": "VHM",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOFA-CLIP",
+          "description": "DOFA-CLIP: Multimodal Vision-Language Foundation Models for Earth Observation Arxiv2025 DOFA-CLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945146487,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-30T08:40:22Z",
+            "owner": "xiong-zhitong",
+            "repo": "DOFA-CLIP",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falcon",
+          "description": "Falcon: A Remote Sensing Vision-Language Foundation Model Arxiv2025 Falcon link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 894507639,
+            "language": "Python",
+            "last_commit": "2026-03-12T03:38:57Z",
+            "owner": "TianHuiLab",
+            "repo": "Falcon",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGTRS-CLIP",
+          "description": "DGTRSD & DGTRS-CLIP: A Dual-Granularity Remote Sensing Image-Text Dataset and Vision Language Foundation Model for Alignment Arxiv2025 DGTRS-CLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932862491,
+            "language": "Python",
+            "last_commit": "2026-06-10T16:16:06Z",
+            "owner": "MitsuiChen14",
+            "repo": "DGTRS",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EagleVision",
+          "description": "EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing Arxiv2025 EagleVision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957310828,
+            "language": "Python",
+            "last_commit": "2025-05-29T14:08:48Z",
+            "owner": "XiangTodayEatsWhat",
+            "repo": "EagleVision",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyEyeGPT",
+          "description": "SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model ISPRS JPRS2025 SkyEyeGPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743375310,
+            "language": null,
+            "last_commit": "2025-12-01T14:00:45Z",
+            "owner": "ZhanYang-nwpu",
+            "repo": "SkyEyeGPT",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegEarth-R1",
+          "description": "SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model Arxiv2025 SegEarth-R1 link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963632116,
+            "language": "Python",
+            "last_commit": "2026-01-21T12:24:06Z",
+            "owner": "earth-insights",
+            "repo": "SegEarth-R1",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthGPT-X",
+          "description": "EarthGPT-X: A Spatial MLLM for Multi-level Multi-Source Remote Sensing Imagery Understanding with Visual Prompting Arxiv2025 EarthGPT-X link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1043261922,
+            "language": null,
+            "last_commit": "2025-09-21T01:42:05Z",
+            "owner": "wivizhang",
+            "repo": "EarthGPT-X",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TEOChat",
+          "description": "TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data ICLR2025 TEOChat link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 867805986,
+            "language": "Python",
+            "last_commit": "2025-12-01T21:50:17Z",
+            "owner": "ermongroup",
+            "repo": "TEOChat",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSGPT",
+          "description": "RSGPT: A Remote Sensing Vision Language Model and Benchmark ISPRS JPRS2025 RSGPT link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670047275,
+            "language": "Python",
+            "last_commit": "2026-05-27T08:02:38Z",
+            "owner": "Lavender105",
+            "repo": "RSGPT",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LHRS-Bot-Nova",
+          "description": "LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation ISPRS JPRS2025 LHRS-Bot-Nova link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 751703018,
+            "language": "Python",
+            "last_commit": "2025-03-04T09:10:08Z",
+            "owner": "NJU-LHRS",
+            "repo": "LHRS-Bot",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthDial",
+          "description": "EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues CVPR2025 EarthDial link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935879185,
+            "language": "Python",
+            "last_commit": "2025-06-20T09:44:34Z",
+            "owner": "hiyamdebary",
+            "repo": "EarthDial",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkySense-O",
+          "description": "SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling CVPR2025 SkySense-O link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 954057253,
+            "language": "Python",
+            "last_commit": "2025-08-27T07:39:35Z",
+            "owner": "zqcrafts",
+            "repo": "SkySense-O",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPix",
+          "description": "GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing IEEE GRSM2025 GeoPix link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931290610,
+            "language": "Python",
+            "last_commit": "2025-05-10T12:08:44Z",
+            "owner": "Norman-Ou",
+            "repo": "GeoPix",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthMind",
+          "description": "EarthMind: Leveraging Cross-Sensor Data for Advanced Earth Observation Interpretation with a Unified Multimodal LLM Arxiv2025 EarthMind link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959699868,
+            "language": "Python",
+            "last_commit": "2026-06-15T10:36:13Z",
+            "owner": "shuyansy",
+            "repo": "Earth-Observation-VLMs",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPixel",
+          "description": "GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing ICML2025 GeoPixel link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921110808,
+            "language": "Python",
+            "last_commit": "2026-05-11T18:25:55Z",
+            "owner": "mbzuai-oryx",
+            "repo": "GeoPixel",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FUSAR-KLIP",
+          "description": "FUSAR-KLIP: Towards Multimodal Foundation Models for Remote Sensing Arxiv2025 FUSAR-KLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1023636217,
+            "language": "Python",
+            "last_commit": "2026-02-24T13:17:27Z",
+            "owner": "yangyifremad",
+            "repo": "FUSAR-KLIP",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RemoteSAM",
+          "description": "RemoteSAM: Towards Segment Anything for Earth Observation ACMMM2025 RemoteSAM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967892126,
+            "language": "Python",
+            "last_commit": "2026-01-04T07:07:39Z",
+            "owner": "1e12Leon",
+            "repo": "RemoteSAM",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LRS-VQA",
+          "description": "When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning ICCV2025 LRS-VQA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946135682,
+            "language": "Python",
+            "last_commit": "2026-02-16T14:07:02Z",
+            "owner": "VisionXLab",
+            "repo": "LRS-VQA",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UrbanLLaVA",
+          "description": "UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding ICCV2025 UrbanLLaVA link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008831855,
+            "language": "Python",
+            "last_commit": "2026-02-28T12:30:32Z",
+            "owner": "tsinghua-fib-lab",
+            "repo": "UrbanLLaVA",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FUSE-RSVLM",
+          "description": "FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing Arxiv2025 FUSE-RSVLM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109691530,
+            "language": "Python",
+            "last_commit": "2026-06-24T08:39:53Z",
+            "owner": "Yunkaidang",
+            "repo": "RSVLM",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSCoVLM",
+          "description": "Co-Training Vision-Language Models for Remote Sensing Multi-Task Learning RS2026 RSCoVLM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1089304902,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-08T04:37:22Z",
+            "owner": "VisionXLab",
+            "repo": "RSCoVLM",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoReason",
+          "description": "GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning Arxiv2026 GeoReason link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128692535,
+            "language": "Python",
+            "last_commit": "2026-01-08T05:09:17Z",
+            "owner": "canlanqianyan",
+            "repo": "GeoReason",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoEyes",
+          "description": "GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery Arxiv2026 GeoEyes link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1144983679,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:24:19Z",
+            "owner": "nanocm",
+            "repo": "GeoEyes",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniChange",
+          "description": "UniChange: Unifying Change Detection with Multimodal Large Language Model CVPR2026 UniChange link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1088734775,
+            "language": "Python",
+            "last_commit": "2026-04-04T03:58:21Z",
+            "owner": "NKU-HLT",
+            "repo": "UniChange",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniGeoSeg",
+          "description": "UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes CVPR2026 UniGeoSeg link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101339231,
+            "language": "Python",
+            "last_commit": "2026-03-30T06:06:48Z",
+            "owner": "MiliLab",
+            "repo": "UniGeoSeg",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegEarth-R2",
+          "description": "SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images CVPR2026 SegEarth-R2 link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1094028243,
+            "language": "Python",
+            "last_commit": "2026-06-18T12:59:36Z",
+            "owner": "earth-insights",
+            "repo": "SegEarth-R2",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SATtxt",
+          "description": "Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery CVPR2026 SATtxt link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1167144274,
+            "language": "Python",
+            "last_commit": "2026-07-29T07:29:43Z",
+            "owner": "ikhado",
+            "repo": "sattxt",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Remote Sensing Vision-Language Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps NeurIPSW2023 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678101156,
+            "language": "Python",
+            "last_commit": "2024-01-16T12:16:22Z",
+            "owner": "toastyfrosty",
+            "repo": "map-sat",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRS-Diff",
+          "description": "CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model Arxiv2024 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775393102,
+            "language": "Python",
+            "last_commit": "2025-12-15T03:28:22Z",
+            "owner": "Sonettoo",
+            "repo": "CRS-Diff",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiffusionSat",
+          "description": "DiffusionSat: A Generative Foundation Model for Satellite Imagery ICLR2024 DiffusionSat link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758339459,
+            "language": "Python",
+            "last_commit": "2025-01-12T02:08:19Z",
+            "owner": "samar-khanna",
+            "repo": "DiffusionSat",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HSIGene",
+          "description": "HSIGene: A Foundation Model For Hyperspectral Image Generation Arxiv2024 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 859641741,
+            "language": "Python",
+            "last_commit": "2025-06-25T01:18:10Z",
+            "owner": "LiPang",
+            "repo": "HSIGene",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EcoMapper",
+          "description": "EcoMapper: Generative Modeling for Climate-Aware Satellite Imagery ICML2025 EcoMapper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 925135195,
+            "language": "Python",
+            "last_commit": "2026-04-27T17:20:45Z",
+            "owner": "maltevb",
+            "repo": "ecomapper",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSMGen",
+          "description": "OSMGen: Highly Controllable Satellite Image Synthesis using OpenStreetMap Data NeurIPSW2025 OSMGen link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073958264,
+            "language": "Python",
+            "last_commit": "2025-10-22T00:44:13Z",
+            "owner": "Amir-zsh",
+            "repo": "OSMGen",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Any2RSI",
+          "description": "Any2RSI: Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description AAAI2026 Any2RSI link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650414874,
+            "language": "Python",
+            "last_commit": "2025-12-25T06:22:38Z",
+            "owner": "AeroVILab-AHU",
+            "repo": "RFD",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Remote Sensing Generative Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SatCLIP",
+          "description": "SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery AAAI2025 SatCLIP link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 719233516,
+            "language": "Python",
+            "last_commit": "2026-06-12T18:26:06Z",
+            "owner": "microsoft",
+            "repo": "satclip",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAIR",
+          "description": "GAIR: Location-Aware Self-Supervised Contrastive Pre-Training with Geo-Aligned Implicit Representations Arxiv2025 GAIR link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214525177,
+            "language": "Python",
+            "last_commit": "2026-04-28T15:36:37Z",
+            "owner": "zpl99",
+            "repo": "GAIR",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoBridge",
+          "description": "GeoBridge: A Semantic-Anchored Multi-View Foundation Model Bridging Images and Text for Geo-Localization CVPR2026 GeoBridge link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101336418,
+            "language": "Python",
+            "last_commit": "2026-05-14T09:17:03Z",
+            "owner": "MiliLab",
+            "repo": "GeoBridge",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Remote Sensing Vision-Location Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Self-supervised audiovisual representation learning for remote sensing data JAG2022 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 387411475,
+            "language": "Python",
+            "last_commit": "2023-05-22T07:44:38Z",
+            "owner": "khdlr",
+            "repo": "SoundingEarth",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSM",
+          "description": "PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping ACM MM 2024 PSM link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 837698401,
+            "language": "Python",
+            "last_commit": "2024-10-28T20:22:44Z",
+            "owner": "mvrl",
+            "repo": "PSM",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Remote Sensing Vision-Audio Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Change-Agent",
+          "description": "Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis TGRS2024 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779198124,
+            "language": "Python",
+            "last_commit": "2025-07-27T13:51:40Z",
+            "owner": "Chen-Yang-Liu",
+            "repo": "Change-Agent",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirSpatialBot",
+          "description": "AirSpatialBot: A Spatially Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognition and Retrieval IEEE TGRS2025 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985149951,
+            "language": "Python",
+            "last_commit": "2026-01-06T06:41:17Z",
+            "owner": "VisionXLab",
+            "repo": "AirSpatialBot",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkGeo",
+          "description": "ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks Arxiv2025 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992761229,
+            "language": "Python",
+            "last_commit": "2026-05-29T22:19:33Z",
+            "owner": "mbzuai-oryx",
+            "repo": "ThinkGeo",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEACE",
+          "description": "PEACE: Empowering Geologic Map Holistic Understanding with MLLMs CVPR2025 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869996621,
+            "language": "Python",
+            "last_commit": "2026-04-13T21:41:57Z",
+            "owner": "microsoft",
+            "repo": "PEACE",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geo-OLM",
+          "description": "Geo-OLM: Enabling Sustainable Earth Observation Studies with Cost-Efficient Open Language Models & State-Driven Workflows COMPASS'2025 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957759969,
+            "language": "Python",
+            "last_commit": "2025-06-17T20:41:23Z",
+            "owner": "dstamoulis",
+            "repo": "geo-olms",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REMSA",
+          "description": "REMSA: Foundation Model Selection for Remote Sensing via a Constraint-Aware Agent Arxiv2025 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101373985,
+            "language": "Python",
+            "last_commit": "2026-07-07T11:04:54Z",
+            "owner": "be-chen",
+            "repo": "REMSA",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEarthAgent",
+          "description": "OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents Arxiv2026 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162386709,
+            "language": "Python",
+            "last_commit": "2026-07-09T08:36:41Z",
+            "owner": "mbzuai-oryx",
+            "repo": "OpenEarthAgent",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEarth-Agent",
+          "description": "OpenEarth-Agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation Arxiv2026 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1189663970,
+            "language": null,
+            "last_commit": "2026-03-24T04:25:55Z",
+            "owner": "walking-shadow",
+            "repo": "OpenEarth-Agent",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earth-Agent",
+          "description": "Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents ICLR2026 Paper link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073410668,
+            "language": "Python",
+            "last_commit": "2026-04-02T02:54:02Z",
+            "owner": "opendatalab",
+            "repo": "Earth-Agent",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "Remote Sensing Agents"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters Arxiv2023 Paper link Classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636270066,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-02T15:31:11Z",
+            "owner": "isaaccorley",
+            "repo": "resize-is-all-you-need",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEO-Bench",
+          "description": "GEO-Bench: Toward Foundation Models for Earth Monitoring Arxiv2023 Paper link Classification & Segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 578635813,
+            "language": "Python",
+            "last_commit": "2025-07-16T13:39:46Z",
+            "owner": "ServiceNow",
+            "repo": "geo-bench",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhilEO",
+          "description": "PhilEO Bench: Evaluating Geo-Spatial Foundation Models Arxiv2024 Paper link Segmentation & Regression estimation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 692020299,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-19T08:20:22Z",
+            "owner": "91097luke",
+            "repo": "phileo-bench",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PANGAEA",
+          "description": "PANGAEA: A Global and Inclusive Benchmark for Geospatial Foundation Models Arxiv2024 PANGAEA link Segmentation & Change detection & Regression",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810539965,
+            "language": "Python",
+            "last_commit": "2025-07-17T07:59:25Z",
+            "owner": "VMarsocci",
+            "repo": "pangaea-bench",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHOICE",
+          "description": "CHOICE: Evaluating and Understanding Vision-Language Model Choices in Remote Sensing NeurIPS2025 CHOICE link Perception & Reasoning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 982614629,
+            "language": "Python",
+            "last_commit": "2025-09-19T02:07:43Z",
+            "owner": "ShawnAn-WHU",
+            "repo": "CHOICE",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEO-Bench-VLM",
+          "description": "GEO-Bench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks ICCV2025 GEO-Bench-VLM link Scene Understanding & Counting & Object Classification & Event Detection & Spatial Relations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 893954951,
+            "language": "Python",
+            "last_commit": "2026-03-09T14:58:59Z",
+            "owner": "The-AI-Alliance",
+            "repo": "GEO-Bench-VLM",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copernicus-Bench",
+          "description": "Towards a Unified Copernicus Foundation Model for Earth Vision ICCV2025 Copernicus-Bench link Segmentation & Classification & Change detection & Regression",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948371619,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-02T15:44:30Z",
+            "owner": "zhu-xlab",
+            "repo": "Copernicus-FM",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REOBench",
+          "description": "REOBench: Benchmarking Robustness of Earth Observation Foundation Models Arxiv2025 REOBench link Robustness across 6 Earth observation tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 984011062,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-09T15:10:20Z",
+            "owner": "lx709",
+            "repo": "REOBench",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoReason-Bench",
+          "description": "GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning Arxiv2026 GeoReason-Bench link Logical consistency & multi-step reasoning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128692535,
+            "language": "Python",
+            "last_commit": "2026-01-08T05:09:17Z",
+            "owner": "canlanqianyan",
+            "repo": "GeoReason",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSVLM-QA",
+          "description": "RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering ACM MM2025 RSVLM-QA link Visual Question Answering & Image Captioning & Counting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992582742,
+            "language": "HTML",
+            "last_commit": "2026-02-07T14:19:20Z",
+            "owner": "StarZi0213",
+            "repo": "RSVLM-QA",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geo3DVQA",
+          "description": "Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery WACV2026 Geo3DVQA link 3D geospatial reasoning & height-aware spatial analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1094817363,
+            "language": "Python",
+            "last_commit": "2025-12-20T10:39:34Z",
+            "owner": "mm1129",
+            "repo": "Geo3DVQA",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEarth-Bench",
+          "description": "OpenEarth-Agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation (OpenEarth-Bench is the benchmark introduced in this paper) Arxiv2026 OpenEarth-Agent link Full-pipeline EO across 7 application domains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1189663970,
+            "language": null,
+            "last_commit": "2026-03-24T04:25:55Z",
+            "owner": "walking-shadow",
+            "repo": "OpenEarth-Agent",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Benchmarks for RSFMs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeCo",
+          "description": "Seasonal Contrast: Unsupervised Pre-Training From Uncurated Remote Sensing Data ICCV2021 SeCo Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 310325086,
+            "language": "Python",
+            "last_commit": "2024-07-25T11:10:00Z",
+            "owner": "ServiceNow",
+            "repo": "seasonal-contrast",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOV-RS-Balanced",
+          "description": "TOV: The original vision model for optical remote sensing image understanding via self-supervised learning JSTARS2023 TOV Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334864605,
+            "language": "Python",
+            "last_commit": "2024-06-08T03:29:12Z",
+            "owner": "GeoX-Lab",
+            "repo": "G-RSIM",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSL4EO-S12",
+          "description": "SSL4EO-S12: A Large-Scale Multi-Modal, Multi-Temporal Dataset for Self-Supervised Learning in Earth Observation GRSM2023 SSL4EO-S12 Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 498449714,
+            "language": "Python",
+            "last_commit": "2024-04-20T10:03:06Z",
+            "owner": "zhu-xlab",
+            "repo": "SSL4EO-S12",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSL4EO-L",
+          "description": "SSL4EO-L: Datasets and Foundation Models for Landsat Imagery Arxiv2023 SSL4EO-L Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369428935,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:13:18Z",
+            "owner": "torchgeo",
+            "repo": "torchgeo",
+            "stars": 4157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatlasPretrain",
+          "description": "SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding ICCV2023 SatlasPretrain Vision (Supervised) link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 586041627,
+            "language": "Python",
+            "last_commit": "2026-03-27T15:20:53Z",
+            "owner": "allenai",
+            "repo": "satlas",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CACo",
+          "description": "Change-Aware Sampling and Contrastive Learning for Satellite Images CVPR2023 CACo Vision Coming soon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 654715157,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-04T01:35:55Z",
+            "owner": "utkarshmall13",
+            "repo": "CACo",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAMRS",
+          "description": "SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model NeurIPS2023 SAMRS Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635572214,
+            "language": "Python",
+            "last_commit": "2024-08-05T12:00:03Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "SAMRS",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSVG",
+          "description": "RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data TGRS2023 RSVG Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535246723,
+            "language": "Python",
+            "last_commit": "2025-12-10T01:54:38Z",
+            "owner": "ZhanYang-nwpu",
+            "repo": "RSVG-pytorch",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RS5M",
+          "description": "RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model Arxiv2023 RS5M Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655027902,
+            "language": "Python",
+            "last_commit": "2025-03-17T03:05:40Z",
+            "owner": "om-ai-lab",
+            "repo": "RS5M",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEO-Bench",
+          "description": "GEO-Bench: Toward Foundation Models for Earth Monitoring Arxiv2023 GEO-Bench Vision (Evaluation) link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 578635813,
+            "language": "Python",
+            "last_commit": "2025-07-16T13:39:46Z",
+            "owner": "ServiceNow",
+            "repo": "geo-bench",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSICap & RSIEval",
+          "description": "RSGPT: A Remote Sensing Vision Language Model and Benchmark Arxiv2023 RSGPT Vision-Language Coming soon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670047275,
+            "language": "Python",
+            "last_commit": "2026-05-27T08:02:38Z",
+            "owner": "Lavender105",
+            "repo": "RSGPT",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyScript",
+          "description": "SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing AAAI2024 SkyScript Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 733467166,
+            "language": "Python",
+            "last_commit": "2024-12-10T02:17:16Z",
+            "owner": "wangzhecheng",
+            "repo": "SkyScript",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatEarthNet",
+          "description": "ChatEarthNet: a global-scale image-text dataset empowering vision-language geo-foundation models ESSD2025 ChatEarthNet Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 787391738,
+            "language": "Python",
+            "last_commit": "2024-06-29T14:36:18Z",
+            "owner": "zhu-xlab",
+            "repo": "ChatEarthNet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FIT-RS",
+          "description": "SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding Arxiv2024 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811150604,
+            "language": "Python",
+            "last_commit": "2026-01-19T15:57:51Z",
+            "owner": "Luo-Z13",
+            "repo": "SkySense-Chat",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RS-GPT4V",
+          "description": "RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding Arxiv2024 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 812130225,
+            "language": null,
+            "last_commit": "2024-07-01T04:45:39Z",
+            "owner": "GeoX-Lab",
+            "repo": "RS-GPT4V",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RS-4M",
+          "description": "Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling ICCV2025 RS-4M Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810868784,
+            "language": "Python",
+            "last_commit": "2025-08-12T15:37:22Z",
+            "owner": "MiliLab",
+            "repo": "SelectiveMAE",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMM-RS",
+          "description": "MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation Arxiv2024 MMM-RS Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810919643,
+            "language": "Python",
+            "last_commit": "2025-01-02T15:07:31Z",
+            "owner": "ljl5261",
+            "repo": "MMM-RS",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDFAV",
+          "description": "DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark RS2025 DDFAV Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 930271079,
+            "language": null,
+            "last_commit": "2025-03-05T10:00:26Z",
+            "owner": "HaodongLi2024",
+            "repo": "rspope",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3LEO",
+          "description": "A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and Multispectral Data NeurIPS2024 M3LEO Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 720105448,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-30T23:28:46Z",
+            "owner": "spaceml-org",
+            "repo": "M3LEO",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copernicus-Pretrain",
+          "description": "Towards a Unified Copernicus Foundation Model for Earth Vision ICCV2025 Copernicus-Pretrain Vision link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948371619,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-02T15:44:30Z",
+            "owner": "zhu-xlab",
+            "repo": "Copernicus-FM",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGTRSD",
+          "description": "DGTRSD & DGTRS-CLIP: A Dual-Granularity Remote Sensing Image-Text Dataset and Vision Language Foundation Model for Alignment Arxiv2025 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932862491,
+            "language": "Python",
+            "last_commit": "2026-06-10T16:16:06Z",
+            "owner": "MitsuiChen14",
+            "repo": "DGTRS",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthDial-Instruct",
+          "description": "EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues CVPR2025 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935879185,
+            "language": "Python",
+            "last_commit": "2025-06-20T09:44:34Z",
+            "owner": "hiyamdebary",
+            "repo": "EarthDial",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPixelD",
+          "description": "GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing ICML2025 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921110808,
+            "language": "Python",
+            "last_commit": "2026-05-11T18:25:55Z",
+            "owner": "mbzuai-oryx",
+            "repo": "GeoPixel",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPixInstruct",
+          "description": "GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing IEEE GRSM2025 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931290610,
+            "language": "Python",
+            "last_commit": "2025-05-10T12:08:44Z",
+            "owner": "Norman-Ou",
+            "repo": "GeoPix",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoLangBind-2M",
+          "description": "Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset ICONIP2024 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945146487,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-30T08:40:22Z",
+            "owner": "xiong-zhitong",
+            "repo": "DOFA-CLIP",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falcon_SFT",
+          "description": "Falcon: A Remote Sensing Vision-Language Foundation Model Arxiv2025 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 894507639,
+            "language": "Python",
+            "last_commit": "2026-03-12T03:38:57Z",
+            "owner": "TianHuiLab",
+            "repo": "Falcon",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RemoteSAM-270K",
+          "description": "RemoteSAM: Towards Segment Anything for Earth Observation ACMMM2025 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967892126,
+            "language": "Python",
+            "last_commit": "2026-01-04T07:07:39Z",
+            "owner": "1e12Leon",
+            "repo": "RemoteSAM",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEarthAgent Dataset",
+          "description": "OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents Arxiv2026 Paper Vision-Language & Agents link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162386709,
+            "language": "Python",
+            "last_commit": "2026-07-09T08:36:41Z",
+            "owner": "mbzuai-oryx",
+            "repo": "OpenEarthAgent",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UHR-CoZ",
+          "description": "GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery Arxiv2026 Paper Vision-Language link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1144983679,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:24:19Z",
+            "owner": "nanocm",
+            "repo": "GeoEyes",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOMA-1M",
+          "description": "SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing Arxiv2026 SOMA-1M Vision (SAR-Optical) link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150229955,
+            "language": null,
+            "last_commit": "2026-07-29T02:05:21Z",
+            "owner": "PeihaoWu",
+            "repo": "SOMA-1M",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "(Large-scale) Pre-training Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Major TOM Embeddings",
+          "description": "Global and Dense Embeddings of Earth: Major TOM Floating in the Latent Space Arxiv2024 Paper link link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764083955,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-06T13:33:36Z",
+            "owner": "ESA-PhiLab",
+            "repo": "Major-TOM",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974875386,
+            "language": "Python",
+            "last_commit": "2026-08-17T01:32:22Z",
+            "owner": "ucam-eo",
+            "repo": "tessera",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1012433978,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:18:00Z",
+            "owner": "ucam-eo",
+            "repo": "geotessera",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESD",
+          "description": "Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring Arxiv2026 Paper link link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128186728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-27T07:39:53Z",
+            "owner": "shuangchencc",
+            "repo": "ESD",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copernicus-Embed",
+          "description": "Towards a Unified Copernicus Foundation Model for Earth Vision ICCV2025 Oral Paper link link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948371619,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-02T15:44:30Z",
+            "owner": "zhu-xlab",
+            "repo": "Copernicus-FM",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Embeddings data"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PANGAEA",
+          "description": "link A Global and Inclusive Benchmark for Geospatial Foundation Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810539965,
+            "language": "Python",
+            "last_commit": "2025-07-17T07:59:25Z",
+            "owner": "VMarsocci",
+            "repo": "pangaea-bench",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoFM",
+          "description": "link Evaluation of Foundation Models for Earth Observation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 886225042,
+            "language": "Python",
+            "last_commit": "2025-02-18T20:01:37Z",
+            "owner": "xiong-zhitong",
+            "repo": "DOFA-pytorch",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rs-embed",
+          "description": "link One line code to get Any Remote Sensing Foundation Model (RSFM) embeddings for Any Place and Any Time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142833038,
+            "language": "Python",
+            "last_commit": "2026-08-21T22:39:20Z",
+            "owner": "cybergis",
+            "repo": "rs-embed",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraTorch",
+          "description": "link A PyTorch toolkit for fine-tuning Geospatial Foundation Models, supporting Prithvi, TerraMind, SatMAE, ScaleMAE, DOFA, Clay, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 801016442,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:43:32Z",
+            "owner": "torchgeo",
+            "repo": "terratorch",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorchGeo",
+          "description": "link A PyTorch domain library for geospatial data, providing datasets, samplers, transforms, and pre-trained models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369428935,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:13:18Z",
+            "owner": "torchgeo",
+            "repo": "torchgeo",
+            "stars": 4157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Geospatial-Embeddings",
+          "description": "link A curated list of papers on how to represent Earth data in embedding space — spatial, temporal, or semantic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1091804166,
+            "language": null,
+            "last_commit": "2026-08-05T10:49:42Z",
+            "owner": "hfangcat",
+            "repo": "Awesome-Geospatial-Embeddings",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Relevant Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:13:23.604Z",
+    "last_updated": "2026-08-24T14:05:42.038Z",
     "original_repository": "Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models",
     "original_repository_id": 725955116,
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
