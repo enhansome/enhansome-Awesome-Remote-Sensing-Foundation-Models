@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding CVPRW2021 Paper link",
+          "title": "link",
+          "description": "Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding CVPRW2021 Paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Self-supervised Vision Transformers for Land-cover Segmentation and Classification CVPRW2022 Paper link",
+          "title": "link",
+          "description": "Self-supervised Vision Transformers for Land-cover Segmentation and Classification CVPRW2022 Paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
             "last_commit": "2025-08-10T22:07:05Z",
             "owner": "sustainlab-group",
             "repo": "SatMAE",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -1181,8 +1181,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs Arxiv2023 Paper link",
+          "title": "link",
+          "description": "Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs Arxiv2023 Paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1196,8 +1196,8 @@
         },
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models Arxiv2024 Paper link",
+          "title": "link",
+          "description": "Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models Arxiv2024 Paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1802,8 +1802,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps NeurIPSW2023 Paper link",
+          "title": "link",
+          "description": "Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps NeurIPSW2023 Paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1964,8 +1964,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Self-supervised audiovisual representation learning for remote sensing data JAG2022 Paper link",
+          "title": "link",
+          "description": "Self-supervised audiovisual representation learning for remote sensing data JAG2022 Paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2141,8 +2141,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "-",
-          "description": "Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters Arxiv2023 Paper link Classification",
+          "title": "link",
+          "description": "Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters Arxiv2023 Paper Classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2957,7 +2957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:09:10.096Z",
+    "last_updated": "2026-08-25T05:58:18.659Z",
     "original_repository": "Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models",
     "original_repository_id": 725955116,
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
