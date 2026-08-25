@@ -870,7 +870,7 @@
             "last_commit": "2026-08-10T04:10:33Z",
             "owner": "geopacha",
             "repo": "DeepAndes",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -930,7 +930,7 @@
             "last_commit": "2025-10-02T15:44:30Z",
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "archived": false,
             "id": 916304113,
             "language": "Python",
-            "last_commit": "2026-08-24T14:05:12Z",
+            "last_commit": "2026-08-24T23:32:41Z",
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
             "stars": 299
@@ -2025,7 +2025,7 @@
             "last_commit": "2026-01-06T06:41:17Z",
             "owner": "VisionXLab",
             "repo": "AirSpatialBot",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -2241,7 +2241,7 @@
             "last_commit": "2025-10-02T15:44:30Z",
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -2379,7 +2379,7 @@
             "archived": false,
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-24T04:13:18Z",
+            "last_commit": "2026-08-25T01:31:56Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4157
@@ -2622,7 +2622,7 @@
             "last_commit": "2025-10-02T15:44:30Z",
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -2820,7 +2820,7 @@
             "archived": false,
             "id": 1012433978,
             "language": "Python",
-            "last_commit": "2026-08-24T11:18:00Z",
+            "last_commit": "2026-08-24T17:27:48Z",
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 339
@@ -2838,7 +2838,7 @@
             "last_commit": "2026-02-27T07:39:53Z",
             "owner": "shuangchencc",
             "repo": "ESD",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -2853,7 +2853,7 @@
             "last_commit": "2025-10-02T15:44:30Z",
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 147
+            "stars": 148
           }
         }
       ],
@@ -2901,7 +2901,7 @@
             "archived": false,
             "id": 1142833038,
             "language": "Python",
-            "last_commit": "2026-08-21T22:39:20Z",
+            "last_commit": "2026-08-24T20:18:43Z",
             "owner": "cybergis",
             "repo": "rs-embed",
             "stars": 153
@@ -2919,7 +2919,7 @@
             "last_commit": "2026-08-21T16:43:32Z",
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 851
+            "stars": 852
           }
         },
         {
@@ -2931,7 +2931,7 @@
             "archived": false,
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-24T04:13:18Z",
+            "last_commit": "2026-08-25T01:31:56Z",
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4157
@@ -2957,7 +2957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:42.038Z",
+    "last_updated": "2026-08-25T03:09:10.096Z",
     "original_repository": "Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models",
     "original_repository_id": 725955116,
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
