@@ -2820,7 +2820,7 @@
             "archived": false,
             "id": 1012433978,
             "language": "Python",
-            "last_commit": "2026-08-27T10:36:16Z",
+            "last_commit": "2026-08-27T12:44:16Z",
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 340
@@ -2904,7 +2904,7 @@
             "last_commit": "2026-08-26T19:22:05Z",
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -2916,7 +2916,7 @@
             "archived": false,
             "id": 801016442,
             "language": "Python",
-            "last_commit": "2026-08-27T10:03:11Z",
+            "last_commit": "2026-08-27T12:41:01Z",
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 852
@@ -2957,7 +2957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:58.185Z",
+    "last_updated": "2026-08-27T12:44:18.121Z",
     "original_repository_info": {
       "archived": false,
       "id": 725955116,
