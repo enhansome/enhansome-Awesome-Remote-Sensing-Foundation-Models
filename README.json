@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 332403593,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-23T09:47:14Z",
+            "open_issues": 3,
             "owner": "flyakon",
             "repo": "Geographical-Knowledge-driven-Representaion-Learning",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -26,12 +31,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code and models from the paper  \"Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding\".",
+            "homepage": null,
             "id": 357312940,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-02T16:11:18Z",
+            "open_issues": 1,
             "owner": "vladan-stojnic",
             "repo": "CMC-RSSR",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "classification",
+              "contrastive-learning",
+              "deep-learning",
+              "paper",
+              "remote-sensing",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -42,12 +59,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository for ICCV 2021 Paper Titled as \"Geography-Aware Self-Supervised Learning\"",
+            "homepage": null,
             "id": 411170717,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-01T05:24:26Z",
+            "open_issues": 3,
             "owner": "sustainlab-group",
             "repo": "geography-aware-ssl",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -58,12 +80,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "seasonal-contrast is a ServiceNow Research project that was started at Element AI.",
+            "homepage": null,
             "id": 310325086,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-25T11:10:00Z",
+            "open_issues": 18,
             "owner": "ServiceNow",
             "repo": "seasonal-contrast",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -74,12 +101,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for [TGRS'22] \"Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model\"",
+            "homepage": null,
             "id": 520325311,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-24T07:28:43Z",
+            "open_issues": 32,
             "owner": "ViTAE-Transformer",
             "repo": "Remote-Sensing-RVSA",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "deep-learning",
+              "foundation-model",
+              "foundation-models",
+              "object-detection",
+              "pytorch",
+              "remote-sensing",
+              "remote-sensing-foundation-model",
+              "scene-classification",
+              "self-supervised-learning",
+              "semantic-segmentation",
+              "transfer-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -90,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks",
+            "homepage": null,
             "id": 468461807,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-29T18:32:11Z",
+            "open_issues": 4,
             "owner": "periakiva",
             "repo": "MATTER",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -106,12 +156,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for \"Self-supervised Vision Transformers for Land-cover Segmentation and Classification\", CVPR EarthVision Workshop 2022 - Best Student Paper Award",
+            "homepage": null,
             "id": 481643890,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-23T14:17:20Z",
+            "open_issues": 3,
             "owner": "HSG-AIML",
             "repo": "SSLTransformerRS",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "deep-learning",
+              "earth-observation",
+              "remote-sensing",
+              "self-supervised-learning",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -122,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-supervised vision transformers for joint SAR-optical representation learning",
+            "homepage": null,
             "id": 498492171,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-08T13:44:35Z",
+            "open_issues": 0,
             "owner": "zhu-xlab",
             "repo": "DINO-MM",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -138,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 334864605,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-08T03:29:12Z",
+            "open_issues": 5,
             "owner": "GeoX-Lab",
             "repo": "G-RSIM",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -154,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 631281394,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-02T07:33:27Z",
+            "open_issues": 19,
             "owner": "comeony",
             "repo": "RingMo",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -170,12 +246,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 505796452,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-04T11:06:06Z",
+            "open_issues": 1,
             "owner": "ZhAnGToNG1",
             "repo": "transfer_learning_cspt",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "pytorch",
+              "remote-sensing",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -186,12 +271,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for [TGRS'22] \"Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model\"",
+            "homepage": null,
             "id": 520325311,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-24T07:28:43Z",
+            "open_issues": 32,
             "owner": "ViTAE-Transformer",
             "repo": "Remote-Sensing-RVSA",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "deep-learning",
+              "foundation-model",
+              "foundation-models",
+              "object-detection",
+              "pytorch",
+              "remote-sensing",
+              "remote-sensing-foundation-model",
+              "scene-classification",
+              "self-supervised-learning",
+              "semantic-segmentation",
+              "transfer-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -202,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository for NeurIPS 2022 paper \"SatMAE: Pretraining Transformers for Temporal and Multi-Spectral Satellite Imagery\"",
+            "homepage": null,
             "id": 560154265,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-10T22:07:05Z",
+            "open_issues": 14,
             "owner": "sustainlab-group",
             "repo": "SatMAE",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -218,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 608819890,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-01T04:02:11Z",
+            "open_issues": 4,
             "owner": "WennyXY",
             "repo": "DINO-MC",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -234,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of paper \"Unified Self-Supervised Learning Framework for Remote Sensing Images\".",
+            "homepage": null,
             "id": 584791471,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-26T12:51:40Z",
+            "open_issues": 12,
             "owner": "NJU-LHRS",
             "repo": "official-CMID",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -250,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries",
+            "homepage": "https://arxiv.org/abs/2304.14065",
             "id": 633346572,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-06-10T10:58:50Z",
+            "open_issues": 12,
             "owner": "nasaharvest",
             "repo": "presto",
-            "stars": 278
+            "stars": 278,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -266,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 334864605,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-08T03:29:12Z",
+            "open_issues": 5,
             "owner": "GeoX-Lab",
             "repo": "G-RSIM",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -282,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official code for CVPR 2023 paper 'Change-Aware Sampling and Contrastive Learning for Satellite Images'",
+            "homepage": null,
             "id": 654715157,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-04T01:35:55Z",
+            "open_issues": 5,
             "owner": "utkarshmall13",
             "repo": "CACo",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -298,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 586041627,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-27T15:20:53Z",
+            "open_issues": 4,
             "owner": "allenai",
             "repo": "satlas",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -314,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 679564624,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-01T20:16:01Z",
+            "open_issues": 9,
             "owner": "mmendiet",
             "repo": "GFM",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -330,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your models invariant to changes in scale.",
+            "homepage": "https://ai-climate.berkeley.edu/scale-mae-website/",
             "id": 596748566,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-17T02:25:04Z",
+            "open_issues": 9,
             "owner": "bair-climate-initiative",
             "repo": "scale-mae",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -346,12 +494,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A time series foundation model for Earth Observation",
+            "homepage": "https://arxiv.org/abs/2309.07207",
             "id": 674380071,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-08T14:53:59Z",
+            "open_issues": 1,
             "owner": "aspiaspace",
             "repo": "earthPT",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "earth-observation",
+              "large-observation-model",
+              "time-series",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -362,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders (NeurIPS '23)",
+            "homepage": null,
             "id": 705803073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-10T14:58:47Z",
+            "open_issues": 6,
             "owner": "antofuller",
             "repo": "CROMA",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -378,12 +541,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NIPS'23] Official Code of the paper \"Cross-Scale MAE: A Tale of Multi-Scale Exploitation in Remote Sensing\"",
+            "homepage": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/3fadcbd0437f4717723ff3f6f7216800-Abstract-Conference.html",
             "id": 743695204,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-15T19:43:25Z",
+            "open_issues": 4,
             "owner": "aicip",
             "repo": "Cross-Scale-MAE",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "computer-vision",
+              "masked-image-modeling",
+              "remote-sensing",
+              "representation-learning",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -394,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 726331108,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-22T16:33:37Z",
+            "open_issues": 5,
             "owner": "stanfordmlgroup",
             "repo": "USat",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -410,12 +589,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of GeRSP (Generic Knowledge Boosted Pre-training For Remote Sensing Images).",
+            "homepage": null,
             "id": 741048591,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-04T05:53:19Z",
+            "open_issues": 1,
             "owner": "floatingstarZ",
             "repo": "GeRSP",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "gersp",
+              "pre-training",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -426,12 +614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 697161379,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-10-08T08:22:59Z",
+            "open_issues": 2,
             "owner": "HIT-SIRS",
             "repo": "SMLFR",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -442,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hong, D., Zhang, B., Li, X., Li, Y., Li, C., Yao, J., Yokoya, N., Li, H., Ghamisi, P., Jia, X., Plaza, A. and Gamba, P., Benediktsson, J., Chanussot, J. (2024). SpectralGPT: Spectral remote sensing foundation model. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. DOI:10.1109/TPAMI.2024.3362475.",
+            "homepage": null,
             "id": 756595666,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-28T15:22:33Z",
+            "open_issues": 26,
             "owner": "danfenghong",
             "repo": "IEEE_TPAMI_SpectralGPT",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -458,12 +656,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities",
+            "homepage": null,
             "id": 775866179,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-22T10:46:18Z",
+            "open_issues": 6,
             "owner": "zhu-xlab",
             "repo": "DOFA",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "earth-observation",
+              "earth-science",
+              "foundation-models",
+              "geospatial",
+              "multimodal-deep-learning",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -474,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hydro -- A Foundation Model for Water in Satellite Imagery",
+            "homepage": null,
             "id": 765798961,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-02-04T14:12:12Z",
+            "open_issues": 1,
             "owner": "isaaccorley",
             "repo": "hydro-foundation-model",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -490,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for \"Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery\" (CVPR 2024)",
+            "homepage": null,
             "id": 768175197,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-30T14:43:17Z",
+            "open_issues": 3,
             "owner": "techmn",
             "repo": "satmae_pp",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -506,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 769764248,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-02T16:55:25Z",
+            "open_issues": 0,
             "owner": "boranhan",
             "repo": "Geospatial_Foundation_Models",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -522,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'24] This repository is the official implementation of the paper \"Skysense: A multi-modal remote sensing foundation model towards universal interpretation for earth observation imagery\"",
+            "homepage": null,
             "id": 1033100532,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-23T14:39:47Z",
+            "open_issues": 6,
             "owner": "Jack-bo1220",
             "repo": "SkySense",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -538,12 +768,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for [JSTARS'24] \"MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining\"",
+            "homepage": null,
             "id": 773801879,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-04T10:07:44Z",
+            "open_issues": 33,
             "owner": "ViTAE-Transformer",
             "repo": "MTP",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "change-detection",
+              "classification",
+              "deep-learning",
+              "foundation-models",
+              "object-detection",
+              "pre-training",
+              "remote-sensing",
+              "remote-sensing-foundation-model",
+              "semantic-segmentation",
+              "transfer-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -554,12 +801,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for [IJCAI'24] \"LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation\"",
+            "homepage": null,
             "id": 792951970,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-11T02:58:22Z",
+            "open_issues": 2,
             "owner": "ViTAE-Transformer",
             "repo": "LeMeViT",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "attention",
+              "deep-learning",
+              "object-detection",
+              "remote-sensing",
+              "scene-classification",
+              "semantic-segmentation",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -570,12 +830,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture",
+            "homepage": null,
             "id": 752193336,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-05T03:24:44Z",
+            "open_issues": 7,
             "owner": "waterdisappear",
             "repo": "SAR-JEPA",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "automatic-target-recognition",
+              "self-supervised-learning",
+              "synthetic-aperture-radar"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -586,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decoupling common and unique representations for multimodal self-supervised learning",
+            "homepage": null,
             "id": 674371492,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-14T20:07:46Z",
+            "open_issues": 3,
             "owner": "zhu-xlab",
             "repo": "DeCUR",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -602,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 784618070,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-24T08:14:48Z",
+            "open_issues": 3,
             "owner": "gastruc",
             "repo": "OmniSat",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -618,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Masked Angle-Aware Autoencoder for Remote Sensing Images (ECCV 2024)",
+            "homepage": null,
             "id": 823907839,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-12T02:50:17Z",
+            "open_issues": 1,
             "owner": "benesakitam",
             "repo": "MA3E",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -634,12 +918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-label guided soft contrastive learning for efficient Earth observation pretraining",
+            "homepage": null,
             "id": 808116241,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-03T07:43:39Z",
+            "open_issues": 2,
             "owner": "zhu-xlab",
             "repo": "softcon",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -650,12 +939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 769024400,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-25T07:38:28Z",
+            "open_issues": 1,
             "owner": "ShawnAn-WHU",
             "repo": "PIS",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -666,12 +960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature guided masked Autoencoder for self-supervised learning in remote sensing",
+            "homepage": null,
             "id": 674366864,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-03T19:59:40Z",
+            "open_issues": 0,
             "owner": "zhu-xlab",
             "repo": "FGMAE",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -682,12 +981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch package with lots of tools for geospatial deep learning",
+            "homepage": "https://nasa-nccs-hpda.github.io/pytorch-caney/latest",
             "id": 472450059,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-26T20:04:47Z",
+            "open_issues": 11,
             "owner": "nasa-nccs-hpda",
             "repo": "pytorch-caney",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -698,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 777611968,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-14T17:45:29Z",
+            "open_issues": 3,
             "owner": "RolnickLab",
             "repo": "FoMo-Bench",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -714,12 +1023,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Foundation Model for SAR Target Recognition",
+            "homepage": null,
             "id": 844049042,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T14:56:51Z",
+            "open_issues": 2,
             "owner": "waterdisappear",
             "repo": "SARATR-X",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "automatic-target-recognition",
+              "foundation-models",
+              "synthetic-aperture-radar"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -730,12 +1048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 856716301,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-04T06:50:31Z",
+            "open_issues": 0,
             "owner": "mdchuc",
             "repo": "HRSFM",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -746,12 +1069,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the implement of the paper \"DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding\"",
+            "homepage": null,
             "id": 951888072,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-25T11:54:40Z",
+            "open_issues": 4,
             "owner": "KyanChen",
             "repo": "DynamicVis",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "change-detection",
+              "computer-vision",
+              "foundation-models",
+              "image-retrieval",
+              "image-segmentation",
+              "image-understanding",
+              "instance-segmentation",
+              "object-detection",
+              "remote-sensing",
+              "scene-classification"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -762,12 +1101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sensor Parameter Encoding for Multi-Spectral Earth Observation Data",
+            "homepage": null,
             "id": 836702276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-07T16:41:33Z",
+            "open_issues": 0,
             "owner": "JonathanPrexl",
             "repo": "SenPa-MAE",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -778,12 +1122,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for [TPAMI'25] \"HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model\"",
+            "homepage": null,
             "id": 798255064,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-20T03:24:09Z",
+            "open_issues": 21,
             "owner": "WHU-Sigma",
             "repo": "HyperSIGMA",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "foundation-model",
+              "foundation-models",
+              "hyperspectral-anomaly-detection",
+              "hyperspectral-change-detection",
+              "hyperspectral-datasets",
+              "hyperspectral-image-classification",
+              "hyperspectral-image-denoising",
+              "hyperspectral-image-segmentation",
+              "hyperspectral-super-resolution",
+              "hyperspectral-target-detection",
+              "hyperspectral-unmixing",
+              "pre-training",
+              "pytorch",
+              "remote-sensing",
+              "remote-sensing-foundation-model",
+              "self-attention",
+              "spectral-spatial-information-fusion",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -794,12 +1164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official code of HyperSL ",
+            "homepage": null,
             "id": 941783160,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T05:59:56Z",
+            "open_issues": 2,
             "owner": "kkweil",
             "repo": "HyperSL",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -810,12 +1185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series\"",
+            "homepage": null,
             "id": 981889664,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-30T13:46:33Z",
+            "open_issues": 0,
             "owner": "MiliLab",
             "repo": "TiMo",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -826,12 +1206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper \"Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation\"",
+            "homepage": null,
             "id": 948106044,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-03T08:51:31Z",
+            "open_issues": 1,
             "owner": "Panopticon-FM",
             "repo": "panopticon",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -842,12 +1227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an official implementation for \"HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery\" (CVPR2025)",
+            "homepage": "https://rsidea.whu.edu.cn/hyperfree.htm",
             "id": 954547975,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-03T03:25:34Z",
+            "open_issues": 11,
             "owner": "Jingtao-Li-CVer",
             "repo": "HyperFree",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -858,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-label guided soft contrastive learning for efficient Earth observation pretraining",
+            "homepage": null,
             "id": 808116241,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-03T07:43:39Z",
+            "open_issues": 2,
             "owner": "zhu-xlab",
             "repo": "softcon",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -874,12 +1269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 904124170,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-16T07:44:11Z",
+            "open_issues": 15,
             "owner": "gastruc",
             "repo": "AnySat",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -890,12 +1290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TerraFM is a scalable foundation model for unified multisensor Earth observation, trained on 18.7M Sentinel-1/2 tiles and achieving state-of-the-art results on GEO-Bench and Copernicus-Bench.",
+            "homepage": null,
             "id": 996154937,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-09T05:14:54Z",
+            "open_issues": 3,
             "owner": "mbzuai-oryx",
             "repo": "TerraFM",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -906,12 +1311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Galileo family of pretrained remote sensing models",
+            "homepage": "https://arxiv.org/abs/2502.09356",
             "id": 920740479,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-21T16:12:08Z",
+            "open_issues": 22,
             "owner": "nasaharvest",
             "repo": "galileo",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -922,12 +1332,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official pytorch implementation for \"DeepAndes: A Self-Supervised Vision Foundation Model for Multi-Spectral Remote Sensing Imagery of the Andes\" (IEEE JSTARS2025)",
+            "homepage": "https://ieeexplore.ieee.org/document/11196959",
             "id": 965874434,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:10:33Z",
+            "open_issues": 2,
             "owner": "geopacha",
             "repo": "DeepAndes",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "archaeology",
+              "dinov2",
+              "remote-sensing",
+              "vision-foundation-models"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -938,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 809751627,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-04T03:40:14Z",
+            "open_issues": 4,
             "owner": "ningerhhh",
             "repo": "RIFR",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -954,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Nature Machine Intelligence 2025] This repository is the official implementation of the paper \"A semantic-enhanced multi-modal remote sensing foundation model for Earth observation\".",
+            "homepage": "https://zqcrafts.github.io/SkySense-O/project.html",
             "id": 883183160,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-18T08:11:15Z",
+            "open_issues": 9,
             "owner": "kang-wu",
             "repo": "SkySensePlusPlus",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -970,12 +1400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?",
+            "homepage": null,
             "id": 1022982110,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-16T13:01:30Z",
+            "open_issues": 1,
             "owner": "yurujaja",
             "repo": "SatDiFuser",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -986,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+            "homepage": null,
             "id": 948371619,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T15:44:30Z",
+            "open_issues": 4,
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1002,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TerraMind is the first any-to-any generative foundation model for Earth Observation, built by IBM and ESA.",
+            "homepage": null,
             "id": 969483295,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T00:39:55Z",
+            "open_issues": 17,
             "owner": "IBM",
             "repo": "terramind",
-            "stars": 313
+            "stars": 314,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1018,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"[ICCV 2025] Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling\"",
+            "homepage": null,
             "id": 810868784,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-12T15:37:22Z",
+            "open_issues": 3,
             "owner": "MiliLab",
             "repo": "SelectiveMAE",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1034,12 +1484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for [NeurlPS 2025]  \"RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing\"",
+            "homepage": null,
             "id": 947748008,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-20T07:24:39Z",
+            "open_issues": 5,
             "owner": "MiliLab",
             "repo": "RoMA",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1050,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation and checkpoints of GeoLink remote sensing foundation model in NeurIPS2025.",
+            "homepage": null,
             "id": 1066367724,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-06T08:59:39Z",
+            "open_issues": 1,
             "owner": "bailubin",
             "repo": "GeoLink_NeurIPS2025",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1066,12 +1526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI 2025] CrossEarth: Geospatial Vision Foundation Model for Cross-Domain Generalization in Remote Sensing Semantic Segmentation",
+            "homepage": null,
             "id": 780007934,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-02T07:52:53Z",
+            "open_issues": 4,
             "owner": "VisionXLab",
             "repo": "CrossEarth",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1082,12 +1547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code Repository for the paper: \"MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models\". ",
+            "homepage": null,
             "id": 1013358675,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-16T15:56:33Z",
+            "open_issues": 2,
             "owner": "HSG-AIML",
             "repo": "MAPEX",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1098,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Masked Autoencoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data",
+            "homepage": null,
             "id": 1038019744,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T15:50:14Z",
+            "open_issues": 1,
             "owner": "IGNF",
             "repo": "MAESTRO",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1114,12 +1589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1103167968,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-24T15:37:34Z",
+            "open_issues": 0,
             "owner": "FM4CS",
             "repo": "THOR",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1130,12 +1610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implement code of paper \"AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Agriculture mapping\"",
+            "homepage": "https://doi.org/10.1016/j.rse.2026.115234",
             "id": 991071285,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T12:21:27Z",
+            "open_issues": 2,
             "owner": "flyakon",
             "repo": "AgriFM",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1146,12 +1631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multispectral Remote Sensing Foundation Model",
+            "homepage": null,
             "id": 1041248525,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-20T07:51:15Z",
+            "open_issues": 1,
             "owner": "zxk688",
             "repo": "SIGMAE",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1162,12 +1652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of CrossEarth-SAR, a sar-centric and billion-scale geospatial foundation model for cross-domain semantic segmentation",
+            "homepage": null,
             "id": 1111588014,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-18T11:52:05Z",
+            "open_issues": 1,
             "owner": "VisionXLab",
             "repo": "CrossEarth-SAR",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1178,12 +1673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mars Orbital Model (MOMO)",
+            "homepage": null,
             "id": 1044507136,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-28T07:26:35Z",
+            "open_issues": 0,
             "owner": "kerner-lab",
             "repo": "MOMO",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1194,12 +1694,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR26] TESSERA is a foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction. Developed at the University of Cambridge, it enables efficient extraction of temporal patterns from Earth observation",
+            "homepage": null,
             "id": 974875386,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:32:22Z",
+            "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "foundation-models",
+              "machine-learning",
+              "remote-sensing",
+              "satellite-imagery"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1210,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Earth system foundation model data, training, and eval",
+            "homepage": null,
             "id": 916304113,
             "language": "Python",
-            "last_commit": "2026-08-28T13:01:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:55:54Z",
+            "open_issues": 25,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1226,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1109079292,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-05T11:45:16Z",
+            "open_issues": 0,
             "owner": "nicolashoudre",
             "repo": "RAMEN",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1242,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for [CVPR 2026] \"SARMAE: Masked Autoencoder for SAR Representation Learning\"",
+            "homepage": null,
             "id": 1101342136,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-15T19:29:56Z",
+            "open_issues": 3,
             "owner": "MiliLab",
             "repo": "SARMAE",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -1264,12 +1789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accompanying repo for CVPRW'24: Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs",
+            "homepage": null,
             "id": 723063457,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-24T10:53:07Z",
+            "open_issues": 0,
             "owner": "jonathan-roberts1",
             "repo": "charting-new-territories",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1280,12 +1810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat with RS-ChatGPT and get the remote sensing interpretation results and the response!",
+            "homepage": null,
             "id": 682001807,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-27T01:30:54Z",
+            "open_issues": 5,
             "owner": "HaonanGuo",
             "repo": "Remote-Sensing-ChatGPT",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1296,12 +1831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing\"",
+            "homepage": null,
             "id": 733467166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-10T02:17:16Z",
+            "open_issues": 4,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1312,12 +1852,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RS5M: a large-scale vision language dataset for remote sensing [TGRS]",
+            "homepage": null,
             "id": 655027902,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-17T03:05:40Z",
+            "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "foundation-models",
+              "remote-sensing",
+              "vision-and-language"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1328,12 +1877,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛰️ Official repository of paper \"RemoteCLIP: A Vision Language Foundation Model for Remote Sensing\" (IEEE TGRS)",
+            "homepage": "https://arxiv.org/abs/2306.11029",
             "id": 666706303,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-27T12:07:35Z",
+            "open_issues": 23,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 587
+            "stars": 587,
+            "topics": [
+              "contrastive-language-image-pretraining",
+              "remote-sensing",
+              "vision-language"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1344,12 +1902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 768505790,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-12T03:39:36Z",
+            "open_issues": 13,
             "owner": "wivizhang",
             "repo": "EarthGPT",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1360,12 +1923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 830368093,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-06T08:58:03Z",
+            "open_issues": 5,
             "owner": "wivizhang",
             "repo": "EarthMarker",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1376,12 +1944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 780414013,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-21T10:19:42Z",
+            "open_issues": 8,
             "owner": "BigData-KSU",
             "repo": "RS-LLaVA",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1392,12 +1965,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 🔥] GeoChat, the first grounded Large Vision Language Model for Remote Sensing",
+            "homepage": "https://mbzuai-oryx.github.io/GeoChat",
             "id": 722562594,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-28T12:05:13Z",
+            "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 744
+            "stars": 744,
+            "topics": [
+              "remote-sensing",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1408,12 +1989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scene Graph-Enhanced Remote Sensing Large Vision-Language Model",
+            "homepage": "https://zqcrafts.github.io/SkySense-O/project.html",
             "id": 811150604,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-19T15:57:51Z",
+            "open_issues": 3,
             "owner": "Luo-Z13",
             "repo": "SkySense-Chat",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1424,12 +2010,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An offical repo for ECCV 2024 Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching",
+            "homepage": "https://multimodalgeo.github.io/GeoText/",
             "id": 827635940,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-07T08:00:54Z",
+            "open_issues": 1,
             "owner": "MultimodalGeo",
             "repo": "GeoText-1652",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "drone-navigation",
+              "geo-localization",
+              "geotext",
+              "natural-language-processing",
+              "university-1652",
+              "vision-and-language",
+              "visual-grounding"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1440,12 +2039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VGI-Enhanced multimodal large language model for remote sensing images.",
+            "homepage": null,
             "id": 751703018,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-04T09:10:08Z",
+            "open_issues": 35,
             "owner": "NJU-LHRS",
             "repo": "LHRS-Bot",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1456,12 +2060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding",
+            "homepage": null,
             "id": 889290077,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-10T15:59:01Z",
+            "open_issues": 5,
             "owner": "VisionXLab",
             "repo": "GeoGround",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1472,12 +2081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis",
+            "homepage": null,
             "id": 779227122,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T07:54:01Z",
+            "open_issues": 1,
             "owner": "opendatalab",
             "repo": "VHM",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1488,12 +2102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DOFA-CLIP: Multimodal Vision–Language Foundation Models for Earth Observation",
+            "homepage": null,
             "id": 945146487,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-30T08:40:22Z",
+            "open_issues": 2,
             "owner": "xiong-zhitong",
             "repo": "DOFA-CLIP",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1504,12 +2123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Falcon: A Remote Sensing Vision-Language Foundation Model",
+            "homepage": null,
             "id": 894507639,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-12T03:38:57Z",
+            "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 382
+            "stars": 382,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1520,12 +2144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 932862491,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-10T16:16:06Z",
+            "open_issues": 3,
             "owner": "MitsuiChen14",
             "repo": "DGTRS",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1536,12 +2165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing",
+            "homepage": null,
             "id": 957310828,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-29T14:08:48Z",
+            "open_issues": 1,
             "owner": "XiangTodayEatsWhat",
             "repo": "EagleVision",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1552,12 +2186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ISPRS2025] SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model",
+            "homepage": null,
             "id": 743375310,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-01T14:00:45Z",
+            "open_issues": 7,
             "owner": "ZhanYang-nwpu",
             "repo": "SkyEyeGPT",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1568,12 +2207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model",
+            "homepage": "https://earth-insights.github.io/SegEarth-R1",
             "id": 963632116,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-21T12:24:06Z",
+            "open_issues": 7,
             "owner": "earth-insights",
             "repo": "SegEarth-R1",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1584,12 +2228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1043261922,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-21T01:42:05Z",
+            "open_issues": 1,
             "owner": "wivizhang",
             "repo": "EarthGPT-X",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1600,12 +2249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for TEOChat, the first vision-language assistant for temporal earth observation data (ICLR 2025).",
+            "homepage": "https://arxiv.org/abs/2410.06234",
             "id": 867805986,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-01T21:50:17Z",
+            "open_issues": 7,
             "owner": "ermongroup",
             "repo": "TEOChat",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1616,12 +2270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 670047275,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-27T08:02:38Z",
+            "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1632,12 +2291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VGI-Enhanced multimodal large language model for remote sensing images.",
+            "homepage": null,
             "id": 751703018,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-04T09:10:08Z",
+            "open_issues": 35,
             "owner": "NJU-LHRS",
             "repo": "LHRS-Bot",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1648,12 +2312,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025 🔥] EarthDial: Turning Multi-Sensory Earth Observations to Interactive Dialogues.",
+            "homepage": null,
             "id": 935879185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-20T09:44:34Z",
+            "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "foundation-models",
+              "large-multimodal-models",
+              "large-vision-language-models",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1664,12 +2338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] This is a model aggregated with CLIP and SAM version of SkySense for remote sensing interpretation described in SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling. ",
+            "homepage": "https://zqcrafts.github.io/SkySense-O/project.html",
             "id": 954057253,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:39:35Z",
+            "open_issues": 18,
             "owner": "zqcrafts",
             "repo": "SkySense-O",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1680,12 +2359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[GRSM] Project Page for \"GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing\"",
+            "homepage": null,
             "id": 931290610,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-10T12:08:44Z",
+            "open_issues": 5,
             "owner": "Norman-Ou",
             "repo": "GeoPix",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1696,12 +2380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔥A Family of Multi-Sensor, Multi-Granularity Vision-Language Models for Earth Observation Understanding",
+            "homepage": null,
             "id": 959699868,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-15T10:36:13Z",
+            "open_issues": 7,
             "owner": "shuyansy",
             "repo": "Earth-Observation-VLMs",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1712,12 +2401,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoPixel: A Pixel Grounding Large Multimodal Model for Remote Sensing is specifically developed for high-resolution remote sensing image analysis, offering advanced multi-target pixel grounding capabilities.",
+            "homepage": "https://mbzuai-oryx.github.io/GeoPixel/",
             "id": 921110808,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-11T18:25:55Z",
+            "open_issues": 11,
             "owner": "mbzuai-oryx",
             "repo": "GeoPixel",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "foundation-models",
+              "grounding-llms",
+              "large-multimodal-models",
+              "large-vision-language-models",
+              "remote-sensing",
+              "segmentation-models",
+              "vision-language-models"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1728,12 +2430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1023636217,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-24T13:17:27Z",
+            "open_issues": 1,
             "owner": "yangyifremad",
             "repo": "FUSAR-KLIP",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1744,12 +2451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 25] Official repo of \"RemoteSAM: Towards Segment Anything for Earth Observation\"",
+            "homepage": null,
             "id": 967892126,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-04T07:07:39Z",
+            "open_issues": 1,
             "owner": "1e12Leon",
             "repo": "RemoteSAM",
-            "stars": 246
+            "stars": 246,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1760,12 +2472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV'25] When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning",
+            "homepage": null,
             "id": 946135682,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-16T14:07:02Z",
+            "open_issues": 2,
             "owner": "VisionXLab",
             "repo": "LRS-VQA",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1776,12 +2493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoing and Understanding.",
+            "homepage": "https://arxiv.org/abs/2506.23219",
             "id": 1008831855,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-28T12:30:32Z",
+            "open_issues": 4,
             "owner": "tsinghua-fib-lab",
             "repo": "UrbanLLaVA",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1792,12 +2514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Arxiv 25] FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing",
+            "homepage": null,
             "id": 1109691530,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-24T08:39:53Z",
+            "open_issues": 0,
             "owner": "Yunkaidang",
             "repo": "RSVLM",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1808,12 +2535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Remote Sensing 2026] Co-Training Vision Language Models for Remote Sensing Multi-task Learning",
+            "homepage": "https://www.mdpi.com/2072-4292/18/2/222",
             "id": 1089304902,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-08T04:37:22Z",
+            "open_issues": 2,
             "owner": "VisionXLab",
             "repo": "RSCoVLM",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1824,12 +2556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GEOREASON: ALIGNING THINKING AND ANSWERING IN REMOTE SENSING VISION-LANGUAGE MODELS VIA LOGICAL CONSISTENCY REINFORCEMENT LEARNING",
+            "homepage": null,
             "id": 1128692535,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-08T05:09:17Z",
+            "open_issues": 1,
             "owner": "canlanqianyan",
             "repo": "GeoReason",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1840,12 +2577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery\"",
+            "homepage": null,
             "id": 1144983679,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-10T13:24:19Z",
+            "open_issues": 0,
             "owner": "nanocm",
             "repo": "GeoEyes",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1856,12 +2598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] UniChange: Unifying Change Detection with Multimodal Large Language Model",
+            "homepage": null,
             "id": 1088734775,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-04T03:58:21Z",
+            "open_issues": 2,
             "owner": "NKU-HLT",
             "repo": "UniChange",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1872,12 +2619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for [CVPR 2026] \"UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes\"",
+            "homepage": null,
             "id": 1101339231,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-30T06:06:48Z",
+            "open_issues": 2,
             "owner": "MiliLab",
             "repo": "UniGeoSeg",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1888,12 +2640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026 Highlight] SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images",
+            "homepage": "https://arxiv.org/abs/2512.20013",
             "id": 1094028243,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-18T12:59:36Z",
+            "open_issues": 13,
             "owner": "earth-insights",
             "repo": "SegEarth-R2",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1904,12 +2661,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery",
+            "homepage": "https://ikhado.github.io/sattxt/",
             "id": 1167144274,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-29T07:29:43Z",
+            "open_issues": 0,
             "owner": "ikhado",
             "repo": "sattxt",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "remote-sensing",
+              "representation-learning",
+              "sattelite-imagery",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -1926,12 +2693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ControlEarth. Generate your own satellite images conditioned on maps.",
+            "homepage": null,
             "id": 678101156,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-16T12:16:22Z",
+            "open_issues": 0,
             "owner": "toastyfrosty",
             "repo": "map-sat",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1942,12 +2714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 775393102,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-15T03:28:22Z",
+            "open_issues": 14,
             "owner": "Sonettoo",
             "repo": "CRS-Diff",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1958,12 +2735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository for ICLR 2024 paper \"DiffusionSat: A Generative Foundation Model for Satellite Imagery\"",
+            "homepage": null,
             "id": 758339459,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-12T02:08:19Z",
+            "open_issues": 11,
             "owner": "samar-khanna",
             "repo": "DiffusionSat",
-            "stars": 236
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1974,12 +2756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 859641741,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-25T01:18:10Z",
+            "open_issues": 7,
             "owner": "LiPang",
             "repo": "HSIGene",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -1990,12 +2777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 925135195,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-27T17:20:45Z",
+            "open_issues": 1,
             "owner": "maltevb",
             "repo": "ecomapper",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2006,12 +2798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSMGen: Highly Controllable Satellite Image Synthesis using OpenStreetMap Data [NeurIPS 2025 UrbanAI Workshop]",
+            "homepage": null,
             "id": 1073958264,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-22T00:44:13Z",
+            "open_issues": 0,
             "owner": "Amir-zsh",
             "repo": "OSMGen",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2022,12 +2819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TGRS 2023] A Robust Feature Downsampling Module for Remote Sensing Visual Tasks",
+            "homepage": null,
             "id": 650414874,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-25T06:22:38Z",
+            "open_issues": 4,
             "owner": "AeroVILab-AHU",
             "repo": "RFD",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -2044,12 +2846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of SatCLIP",
+            "homepage": null,
             "id": 719233516,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-12T18:26:06Z",
+            "open_issues": 3,
             "owner": "microsoft",
             "repo": "satclip",
-            "stars": 374
+            "stars": 374,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2060,12 +2867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1214525177,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-28T15:36:37Z",
+            "open_issues": 1,
             "owner": "zpl99",
             "repo": "GAIR",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2076,12 +2888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for [CVPR 2026] \"GeoBridge: A Semantic-Anchored Multi-View Foundation Model Bridging Images and Text for Geo-Localization\"",
+            "homepage": null,
             "id": 1101336418,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-14T09:17:03Z",
+            "open_issues": 4,
             "owner": "MiliLab",
             "repo": "GeoBridge",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -2098,12 +2915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-supervised Audiovisual Representation Learning for Remote Sensing Data",
+            "homepage": null,
             "id": 387411475,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-22T07:44:38Z",
+            "open_issues": 2,
             "owner": "khdlr",
             "repo": "SoundingEarth",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2114,12 +2936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 837698401,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-28T20:22:44Z",
+            "open_issues": 0,
             "owner": "mvrl",
             "repo": "PSM",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -2136,12 +2963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IEEE TGRS 2024 🔥] Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis",
+            "homepage": null,
             "id": 779198124,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-27T13:51:40Z",
+            "open_issues": 11,
             "owner": "Chen-Yang-Liu",
             "repo": "Change-Agent",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2152,12 +2984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TGRS'25] AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval",
+            "homepage": null,
             "id": 985149951,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-06T06:41:17Z",
+            "open_issues": 1,
             "owner": "VisionXLab",
             "repo": "AirSpatialBot",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2168,12 +3005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026 🔥] ThinkGeo is a Comprehensive Benchmark to evaluate Tool-Augmented Agents for Remote Sensing Tasks",
+            "homepage": "https://mbzuai-oryx.github.io/ThinkGeo/",
             "id": 992761229,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-29T22:19:33Z",
+            "open_issues": 4,
             "owner": "mbzuai-oryx",
             "repo": "ThinkGeo",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2184,12 +3026,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PEACE: Empowering Geologic Map Holistic Understanding with MLLMs [Official, CVPR 2025]",
+            "homepage": "https://arxiv.org/abs/2501.06184",
             "id": 869996621,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T21:41:57Z",
+            "open_issues": 3,
             "owner": "microsoft",
             "repo": "PEACE",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "agent",
+              "benchmark",
+              "geologic-map"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2200,12 +3051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Geo-OLMs Repo: Accepted to ACM COMPASS 2025",
+            "homepage": null,
             "id": 957759969,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-17T20:41:23Z",
+            "open_issues": 1,
             "owner": "dstamoulis",
             "repo": "geo-olms",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2216,12 +3072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1101373985,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:04:55Z",
+            "open_issues": 0,
             "owner": "be-chen",
             "repo": "REMSA",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2232,12 +3093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2026 🔥] OpenEarthAgent is a unified framework for tool-augmented geospatial agents.",
+            "homepage": "https://mbzuai-oryx.github.io/OpenEarthAgent/",
             "id": 1162386709,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-09T08:36:41Z",
+            "open_issues": 6,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2248,12 +3114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of OpenEarth-Agent",
+            "homepage": null,
             "id": 1189663970,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-24T04:25:55Z",
+            "open_issues": 1,
             "owner": "walking-shadow",
             "repo": "OpenEarth-Agent",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2264,12 +3135,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] The official implementation of the paper “Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents”",
+            "homepage": "https://opendatalab.github.io/Earth-Agent/",
             "id": 1073410668,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-02T02:54:02Z",
+            "open_issues": 11,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "earth-agent",
+              "earth-bench",
+              "earth-observation"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -2286,12 +3166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for the paper \"Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters\"",
+            "homepage": null,
             "id": 636270066,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-02T15:31:11Z",
+            "open_issues": 1,
             "owner": "isaaccorley",
             "repo": "resize-is-all-you-need",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2302,12 +3187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GEO-Bench: Toward Foundation Models for Earth Monitoring",
+            "homepage": null,
             "id": 578635813,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-16T13:39:46Z",
+            "open_issues": 11,
             "owner": "ServiceNow",
             "repo": "geo-bench",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2318,12 +3208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for testing foundation models",
+            "homepage": null,
             "id": 692020299,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-19T08:20:22Z",
+            "open_issues": 3,
             "owner": "91097luke",
             "repo": "phileo-bench",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2334,12 +3229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards Robust Evaluation for Geospatial Foundation Models",
+            "homepage": null,
             "id": 810539965,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-17T07:59:25Z",
+            "open_issues": 23,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2350,12 +3250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 982614629,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-19T02:07:43Z",
+            "open_issues": 0,
             "owner": "ShawnAn-WHU",
             "repo": "CHOICE",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2366,12 +3271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks",
+            "homepage": null,
             "id": 893954951,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-09T14:58:59Z",
+            "open_issues": 3,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-VLM",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2382,12 +3292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+            "homepage": null,
             "id": 948371619,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T15:44:30Z",
+            "open_issues": 4,
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2398,12 +3313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REOBench: Benchmarking Robustness of Earth Observation Foundation Models",
+            "homepage": null,
             "id": 984011062,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-09T15:10:20Z",
+            "open_issues": 2,
             "owner": "lx709",
             "repo": "REOBench",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2414,12 +3334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GEOREASON: ALIGNING THINKING AND ANSWERING IN REMOTE SENSING VISION-LANGUAGE MODELS VIA LOGICAL CONSISTENCY REINFORCEMENT LEARNING",
+            "homepage": null,
             "id": 1128692535,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-08T05:09:17Z",
+            "open_issues": 1,
             "owner": "canlanqianyan",
             "repo": "GeoReason",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2430,12 +3355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 992582742,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-07T14:19:20Z",
+            "open_issues": 0,
             "owner": "StarZi0213",
             "repo": "RSVLM-QA",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2446,12 +3376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV2026] Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery",
+            "homepage": null,
             "id": 1094817363,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-20T10:39:34Z",
+            "open_issues": 1,
             "owner": "mm1129",
             "repo": "Geo3DVQA",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2462,12 +3397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of OpenEarth-Agent",
+            "homepage": null,
             "id": 1189663970,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-24T04:25:55Z",
+            "open_issues": 1,
             "owner": "walking-shadow",
             "repo": "OpenEarth-Agent",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -2484,12 +3424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "seasonal-contrast is a ServiceNow Research project that was started at Element AI.",
+            "homepage": null,
             "id": 310325086,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-25T11:10:00Z",
+            "open_issues": 18,
             "owner": "ServiceNow",
             "repo": "seasonal-contrast",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2500,12 +3445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 334864605,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-08T03:29:12Z",
+            "open_issues": 5,
             "owner": "GeoX-Lab",
             "repo": "G-RSIM",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2516,12 +3466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSL4EO-S12: a large-scale dataset for self-supervised learning in Earth observation",
+            "homepage": null,
             "id": 498449714,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-20T10:03:06Z",
+            "open_issues": 3,
             "owner": "zhu-xlab",
             "repo": "SSL4EO-S12",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2532,12 +3487,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+            "homepage": "https://torchgeo.org/",
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-28T08:40:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:14:22Z",
+            "open_issues": 210,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162
+            "stars": 4162,
+            "topics": [
+              "computer-vision",
+              "datasets",
+              "deep-learning",
+              "earth-observation",
+              "geospatial",
+              "models",
+              "pytorch",
+              "remote-sensing",
+              "satellite-imagery",
+              "torchvision",
+              "transforms"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2548,12 +3520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 586041627,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-27T15:20:53Z",
+            "open_issues": 4,
             "owner": "allenai",
             "repo": "satlas",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2564,12 +3541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official code for CVPR 2023 paper 'Change-Aware Sampling and Contrastive Learning for Satellite Images'",
+            "homepage": null,
             "id": 654715157,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-04T01:35:55Z",
+            "open_issues": 5,
             "owner": "utkarshmall13",
             "repo": "CACo",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2580,12 +3562,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for [NeurIPS'23] \"SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model\"",
+            "homepage": null,
             "id": 635572214,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-05T12:00:03Z",
+            "open_issues": 34,
             "owner": "ViTAE-Transformer",
             "repo": "SAMRS",
-            "stars": 385
+            "stars": 385,
+            "topics": [
+              "dataset",
+              "deep-learning",
+              "pre-training",
+              "remote-sensing",
+              "sam",
+              "segment-anything-model",
+              "semantic-segmentation",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2596,12 +3592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RSVG: Exploring Data and Model for Visual Grounding on Remote Sensing Data, 2022",
+            "homepage": null,
             "id": 535246723,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-10T01:54:38Z",
+            "open_issues": 13,
             "owner": "ZhanYang-nwpu",
             "repo": "RSVG-pytorch",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2612,12 +3613,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RS5M: a large-scale vision language dataset for remote sensing [TGRS]",
+            "homepage": null,
             "id": 655027902,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-17T03:05:40Z",
+            "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "foundation-models",
+              "remote-sensing",
+              "vision-and-language"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2628,12 +3638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GEO-Bench: Toward Foundation Models for Earth Monitoring",
+            "homepage": null,
             "id": 578635813,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-16T13:39:46Z",
+            "open_issues": 11,
             "owner": "ServiceNow",
             "repo": "geo-bench",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2644,12 +3659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 670047275,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-27T08:02:38Z",
+            "open_issues": 6,
             "owner": "Lavender105",
             "repo": "RSGPT",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2660,12 +3680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing\"",
+            "homepage": null,
             "id": 733467166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-10T02:17:16Z",
+            "open_issues": 4,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2676,12 +3701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 787391738,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-29T14:36:18Z",
+            "open_issues": 0,
             "owner": "zhu-xlab",
             "repo": "ChatEarthNet",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2692,12 +3722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scene Graph-Enhanced Remote Sensing Large Vision-Language Model",
+            "homepage": "https://zqcrafts.github.io/SkySense-O/project.html",
             "id": 811150604,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-19T15:57:51Z",
+            "open_issues": 3,
             "owner": "Luo-Z13",
             "repo": "SkySense-Chat",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2708,12 +3743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 812130225,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-07-01T04:45:39Z",
+            "open_issues": 2,
             "owner": "GeoX-Lab",
             "repo": "RS-GPT4V",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2724,12 +3764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"[ICCV 2025] Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling\"",
+            "homepage": null,
             "id": 810868784,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-12T15:37:22Z",
+            "open_issues": 3,
             "owner": "MiliLab",
             "repo": "SelectiveMAE",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2740,12 +3785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RS Generate dataset",
+            "homepage": null,
             "id": 810919643,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-02T15:07:31Z",
+            "open_issues": 3,
             "owner": "ljl5261",
             "repo": "MMM-RS",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2756,12 +3806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 930271079,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-05T10:00:26Z",
+            "open_issues": 2,
             "owner": "HaodongLi2024",
             "repo": "rspope",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2772,12 +3827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 720105448,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-04-30T23:28:46Z",
+            "open_issues": 1,
             "owner": "spaceml-org",
             "repo": "M3LEO",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2788,12 +3848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+            "homepage": null,
             "id": 948371619,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T15:44:30Z",
+            "open_issues": 4,
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2804,12 +3869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 932862491,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-10T16:16:06Z",
+            "open_issues": 3,
             "owner": "MitsuiChen14",
             "repo": "DGTRS",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2820,12 +3890,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025 🔥] EarthDial: Turning Multi-Sensory Earth Observations to Interactive Dialogues.",
+            "homepage": null,
             "id": 935879185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-20T09:44:34Z",
+            "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "foundation-models",
+              "large-multimodal-models",
+              "large-vision-language-models",
+              "remote-sensing"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2836,12 +3916,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoPixel: A Pixel Grounding Large Multimodal Model for Remote Sensing is specifically developed for high-resolution remote sensing image analysis, offering advanced multi-target pixel grounding capabilities.",
+            "homepage": "https://mbzuai-oryx.github.io/GeoPixel/",
             "id": 921110808,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-11T18:25:55Z",
+            "open_issues": 11,
             "owner": "mbzuai-oryx",
             "repo": "GeoPixel",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "foundation-models",
+              "grounding-llms",
+              "large-multimodal-models",
+              "large-vision-language-models",
+              "remote-sensing",
+              "segmentation-models",
+              "vision-language-models"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2852,12 +3945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[GRSM] Project Page for \"GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing\"",
+            "homepage": null,
             "id": 931290610,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-10T12:08:44Z",
+            "open_issues": 5,
             "owner": "Norman-Ou",
             "repo": "GeoPix",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2868,12 +3966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DOFA-CLIP: Multimodal Vision–Language Foundation Models for Earth Observation",
+            "homepage": null,
             "id": 945146487,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-30T08:40:22Z",
+            "open_issues": 2,
             "owner": "xiong-zhitong",
             "repo": "DOFA-CLIP",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2884,12 +3987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Falcon: A Remote Sensing Vision-Language Foundation Model",
+            "homepage": null,
             "id": 894507639,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-12T03:38:57Z",
+            "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 382
+            "stars": 382,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2900,12 +4008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 25] Official repo of \"RemoteSAM: Towards Segment Anything for Earth Observation\"",
+            "homepage": null,
             "id": 967892126,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-04T07:07:39Z",
+            "open_issues": 1,
             "owner": "1e12Leon",
             "repo": "RemoteSAM",
-            "stars": 246
+            "stars": 246,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2916,12 +4029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2026 🔥] OpenEarthAgent is a unified framework for tool-augmented geospatial agents.",
+            "homepage": "https://mbzuai-oryx.github.io/OpenEarthAgent/",
             "id": 1162386709,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-09T08:36:41Z",
+            "open_issues": 6,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2932,12 +4050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery\"",
+            "homepage": null,
             "id": 1144983679,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-10T13:24:19Z",
+            "open_issues": 0,
             "owner": "nanocm",
             "repo": "GeoEyes",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2948,12 +4071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing",
+            "homepage": null,
             "id": 1150229955,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-29T02:05:21Z",
+            "open_issues": 6,
             "owner": "PeihaoWu",
             "repo": "SOMA-1M",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -2970,12 +4098,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expandable Datasets for Earth Observation",
+            "homepage": "https://huggingface.co/Major-TOM",
             "id": 764083955,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-06T13:33:36Z",
+            "open_issues": 7,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "dataset",
+              "earth-observation",
+              "multi-spectral",
+              "remote-sensing",
+              "sentinel-1",
+              "sentinel-2"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -2986,12 +4126,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR26] TESSERA is a foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction. Developed at the University of Cambridge, it enables efficient extraction of temporal patterns from Earth observation",
+            "homepage": null,
             "id": 974875386,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:32:22Z",
+            "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "foundation-models",
+              "machine-learning",
+              "remote-sensing",
+              "satellite-imagery"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3002,12 +4152,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for the Tessera embeddings",
+            "homepage": null,
             "id": 1012433978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:44:16Z",
+            "open_issues": 57,
             "owner": "ucam-eo",
             "repo": "geotessera",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "geospatial-data",
+              "python-package"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3018,12 +4176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring",
+            "homepage": null,
             "id": 1128186728,
             "language": "Jupyter Notebook",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-27T07:39:53Z",
+            "open_issues": 1,
             "owner": "shuangchencc",
             "repo": "ESD",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3034,12 +4197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards a Unified Copernicus Foundation Model for Earth Vision",
+            "homepage": null,
             "id": 948371619,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T15:44:30Z",
+            "open_issues": 4,
             "owner": "zhu-xlab",
             "repo": "Copernicus-FM",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -3056,12 +4224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards Robust Evaluation for Geospatial Foundation Models",
+            "homepage": null,
             "id": 810539965,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-17T07:59:25Z",
+            "open_issues": 23,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3072,12 +4245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy fine-tuning of Geo foundation models",
+            "homepage": null,
             "id": 886225042,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-18T20:01:37Z",
+            "open_issues": 3,
             "owner": "xiong-zhitong",
             "repo": "DOFA-pytorch",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3088,12 +4266,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One line code to get any remote sensing foundation model embeddings for any place and any time",
+            "homepage": "https://cybergis.github.io/rs-embed/",
             "id": 1142833038,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:22:05Z",
+            "open_issues": 9,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "earth-observation",
+              "embeddings",
+              "geospatial",
+              "geospatial-foundation-model",
+              "remote-sensing",
+              "remote-sensing-foundation-model",
+              "representation-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3104,12 +4295,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).",
+            "homepage": "https://torchgeo.github.io/terratorch/",
             "id": 801016442,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:04:47Z",
+            "open_issues": 50,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "ai4good",
+              "ai4science",
+              "computer-vision",
+              "deep-learning",
+              "earth-observation",
+              "foundation-models",
+              "geospatial",
+              "solar-physics",
+              "weather-models"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3120,12 +4326,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+            "homepage": "https://torchgeo.org/",
             "id": 369428935,
             "language": "Python",
-            "last_commit": "2026-08-28T08:40:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:14:22Z",
+            "open_issues": 210,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162
+            "stars": 4162,
+            "topics": [
+              "computer-vision",
+              "datasets",
+              "deep-learning",
+              "earth-observation",
+              "geospatial",
+              "models",
+              "pytorch",
+              "remote-sensing",
+              "satellite-imagery",
+              "torchvision",
+              "transforms"
+            ]
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         },
@@ -3136,12 +4359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of papers that focus on how to represent Earth data in embedding space — spatial, temporal, or semantic — and how those embeddings behave or are applied.",
+            "homepage": null,
             "id": 1091804166,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-05T10:49:42Z",
+            "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
-            "stars": 112
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
         }
@@ -3150,15 +4378,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:17:45.714Z",
+    "last_updated": "2026-08-29T04:27:45.423Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": "https://jack-bo1220.github.io/project/RSFM.html",
       "id": 725955116,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-07T14:14:37Z",
+      "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1927
+      "stars": 1927,
+      "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
     "enhanced_repository": "enhansome/enhansome-Awesome-Remote-Sensing-Foundation-Models",
