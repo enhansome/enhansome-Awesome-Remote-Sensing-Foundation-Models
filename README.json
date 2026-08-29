@@ -2132,7 +2132,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2897,7 +2897,7 @@
             "open_issues": 4,
             "owner": "MiliLab",
             "repo": "GeoBridge",
-            "stars": 46,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3192,8 +3192,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-07-16T13:39:46Z",
-            "open_issues": 11,
+            "last_commit": "2026-08-29T08:21:33Z",
+            "open_issues": 9,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3493,7 +3493,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T20:14:22Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4162,
@@ -3643,8 +3643,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-07-16T13:39:46Z",
-            "open_issues": 11,
+            "last_commit": "2026-08-29T08:21:33Z",
+            "open_issues": 9,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3996,7 +3996,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4332,7 +4332,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T20:14:22Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4162,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:45.423Z",
+    "last_updated": "2026-08-29T08:58:21.576Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
