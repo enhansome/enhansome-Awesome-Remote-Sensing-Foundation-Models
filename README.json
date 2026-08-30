@@ -969,7 +969,7 @@
             "open_issues": 0,
             "owner": "zhu-xlab",
             "repo": "FGMAE",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1448,7 +1448,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T00:39:55Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "IBM",
             "repo": "terramind",
             "stars": 314,
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 718,
+            "stars": 720,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1998,7 +1998,7 @@
             "open_issues": 3,
             "owner": "Luo-Z13",
             "repo": "SkySense-Chat",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:14:22Z",
-            "open_issues": 211,
+            "last_commit": "2026-08-29T17:02:01Z",
+            "open_issues": 209,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162,
+            "stars": 4163,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3731,7 +3731,7 @@
             "open_issues": 3,
             "owner": "Luo-Z13",
             "repo": "SkySense-Chat",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 718,
+            "stars": 720,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T12:44:16Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 341,
@@ -4300,11 +4300,11 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T07:04:47Z",
-            "open_issues": 50,
+            "last_commit": "2026-08-29T10:35:16Z",
+            "open_issues": 49,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:14:22Z",
-            "open_issues": 211,
+            "last_commit": "2026-08-29T17:02:01Z",
+            "open_issues": 209,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162,
+            "stars": 4163,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:58:21.576Z",
+    "last_updated": "2026-08-30T08:15:38.468Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
