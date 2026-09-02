@@ -110,7 +110,7 @@
             "open_issues": 32,
             "owner": "ViTAE-Transformer",
             "repo": "Remote-Sensing-RVSA",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "deep-learning",
               "foundation-model",
@@ -280,7 +280,7 @@
             "open_issues": 32,
             "owner": "ViTAE-Transformer",
             "repo": "Remote-Sensing-RVSA",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "deep-learning",
               "foundation-model",
@@ -529,7 +529,7 @@
             "open_issues": 6,
             "owner": "antofuller",
             "repo": "CROMA",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -777,7 +777,7 @@
             "open_issues": 33,
             "owner": "ViTAE-Transformer",
             "repo": "MTP",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "change-detection",
               "classification",
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "waterdisappear",
             "repo": "SARATR-X",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "automatic-target-recognition",
               "foundation-models",
@@ -1078,7 +1078,7 @@
             "open_issues": 4,
             "owner": "KyanChen",
             "repo": "DynamicVis",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "change-detection",
               "computer-vision",
@@ -1131,7 +1131,7 @@
             "open_issues": 21,
             "owner": "WHU-Sigma",
             "repo": "HyperSIGMA",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 721,
+            "stars": 724,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T00:01:54Z",
+            "last_commit": "2026-09-02T00:15:15Z",
             "open_issues": 25,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -1861,7 +1861,7 @@
             "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -1886,7 +1886,7 @@
             "open_issues": 23,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 588,
+            "stars": 590,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -1974,7 +1974,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 745,
+            "stars": 747,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -2132,7 +2132,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 383,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2321,7 +2321,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -2410,7 +2410,7 @@
             "open_issues": 11,
             "owner": "mbzuai-oryx",
             "repo": "GeoPixel",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "foundation-models",
               "grounding-llms",
@@ -2604,7 +2604,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-04T03:58:21Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "NKU-HLT",
             "repo": "UniChange",
             "stars": 28,
@@ -2628,7 +2628,7 @@
             "open_issues": 2,
             "owner": "MiliLab",
             "repo": "UniGeoSeg",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3144,7 +3144,7 @@
             "open_issues": 11,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 196,
+            "stars": 198,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T18:12:07Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-01T21:28:38Z",
+            "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162,
+            "stars": 4165,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3622,7 +3622,7 @@
             "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -3899,7 +3899,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -3925,7 +3925,7 @@
             "open_issues": 11,
             "owner": "mbzuai-oryx",
             "repo": "GeoPixel",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "foundation-models",
               "grounding-llms",
@@ -3996,7 +3996,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 383,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 721,
+            "stars": 724,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4158,10 +4158,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T12:44:16Z",
-            "open_issues": 60,
+            "open_issues": 64,
             "owner": "ucam-eo",
             "repo": "geotessera",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "geospatial-data",
               "python-package"
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T18:12:07Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-01T21:28:38Z",
+            "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4162,
+            "stars": 4165,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:44:17.516Z",
+    "last_updated": "2026-09-02T07:03:45.858Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1929,
+      "stars": 1931,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
