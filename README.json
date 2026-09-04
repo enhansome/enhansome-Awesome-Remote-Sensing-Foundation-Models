@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "waterdisappear",
             "repo": "SAR-JEPA",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "automatic-target-recognition",
               "self-supervised-learning",
@@ -1131,7 +1131,7 @@
             "open_issues": 21,
             "owner": "WHU-Sigma",
             "repo": "HyperSIGMA",
-            "stars": 386,
+            "stars": 388,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:17:33Z",
+            "last_commit": "2026-09-03T23:41:42Z",
             "open_issues": 25,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -1974,7 +1974,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -2216,7 +2216,7 @@
             "open_issues": 7,
             "owner": "earth-insights",
             "repo": "SegEarth-R1",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2258,7 +2258,7 @@
             "open_issues": 7,
             "owner": "ermongroup",
             "repo": "TEOChat",
-            "stars": 150,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2321,7 +2321,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -2389,7 +2389,7 @@
             "open_issues": 7,
             "owner": "shuyansy",
             "repo": "Earth-Observation-VLMs",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2628,7 +2628,7 @@
             "open_issues": 2,
             "owner": "MiliLab",
             "repo": "UniGeoSeg",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2855,7 +2855,7 @@
             "open_issues": 3,
             "owner": "microsoft",
             "repo": "satclip",
-            "stars": 375,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2897,7 +2897,7 @@
             "open_issues": 4,
             "owner": "MiliLab",
             "repo": "GeoBridge",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3035,7 +3035,7 @@
             "open_issues": 3,
             "owner": "microsoft",
             "repo": "PEACE",
-            "stars": 97,
+            "stars": 96,
             "topics": [
               "agent",
               "benchmark",
@@ -3102,7 +3102,7 @@
             "open_issues": 6,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3192,8 +3192,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T08:21:33Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-04T06:05:47Z",
+            "open_issues": 10,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3280,7 +3280,7 @@
             "open_issues": 3,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-VLM",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T16:47:51Z",
-            "open_issues": 214,
+            "last_commit": "2026-09-03T11:44:38Z",
+            "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4169,
+            "stars": 4171,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3571,7 +3571,7 @@
             "open_issues": 34,
             "owner": "ViTAE-Transformer",
             "repo": "SAMRS",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "dataset",
               "deep-learning",
@@ -3643,8 +3643,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T08:21:33Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-04T06:05:47Z",
+            "open_issues": 10,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3899,7 +3899,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -4038,7 +4038,7 @@
             "open_issues": 6,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4080,7 +4080,7 @@
             "open_issues": 6,
             "owner": "PeihaoWu",
             "repo": "SOMA-1M",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T12:44:16Z",
-            "open_issues": 64,
+            "open_issues": 68,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 342,
@@ -4271,7 +4271,7 @@
             "id": 1142833038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T19:46:09Z",
+            "last_commit": "2026-09-03T23:30:29Z",
             "open_issues": 9,
             "owner": "cybergis",
             "repo": "rs-embed",
@@ -4304,7 +4304,7 @@
             "open_issues": 49,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 854,
+            "stars": 855,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T16:47:51Z",
-            "open_issues": 214,
+            "last_commit": "2026-09-03T11:44:38Z",
+            "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4169,
+            "stars": 4171,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4364,7 +4364,7 @@
             "id": 1091804166,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-05T10:49:42Z",
+            "last_commit": "2026-09-03T13:42:24Z",
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:07:50.972Z",
+    "last_updated": "2026-09-04T07:11:26.299Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
