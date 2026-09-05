@@ -314,7 +314,7 @@
             "open_issues": 14,
             "owner": "sustainlab-group",
             "repo": "SatMAE",
-            "stars": 266,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -440,7 +440,7 @@
             "open_issues": 4,
             "owner": "allenai",
             "repo": "satlas",
-            "stars": 283,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -665,7 +665,7 @@
             "open_issues": 6,
             "owner": "zhu-xlab",
             "repo": "DOFA",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "earth-observation",
               "earth-science",
@@ -1173,7 +1173,7 @@
             "open_issues": 2,
             "owner": "kkweil",
             "repo": "HyperSL",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1215,7 +1215,7 @@
             "open_issues": 1,
             "owner": "Panopticon-FM",
             "repo": "panopticon",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1451,7 +1451,7 @@
             "open_issues": 16,
             "owner": "IBM",
             "repo": "terramind",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 5,
             "owner": "MiliLab",
             "repo": "RoMA",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 724,
+            "stars": 726,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,8 +1725,8 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:41:42Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-05T05:14:52Z",
+            "open_issues": 24,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
             "stars": 304,
@@ -1974,7 +1974,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -1998,7 +1998,7 @@
             "open_issues": 3,
             "owner": "Luo-Z13",
             "repo": "SkySense-Chat",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2090,7 +2090,7 @@
             "open_issues": 1,
             "owner": "opendatalab",
             "repo": "VHM",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2153,7 +2153,7 @@
             "open_issues": 3,
             "owner": "MitsuiChen14",
             "repo": "DGTRS",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2765,7 +2765,7 @@
             "open_issues": 7,
             "owner": "LiPang",
             "repo": "HSIGene",
-            "stars": 64,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2855,7 +2855,7 @@
             "open_issues": 3,
             "owner": "microsoft",
             "repo": "satclip",
-            "stars": 376,
+            "stars": 377,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3192,8 +3192,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:05:47Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-04T14:31:50Z",
+            "open_issues": 16,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3493,10 +3493,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T11:44:38Z",
-            "open_issues": 212,
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4171,
+            "stars": 4172,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3529,7 +3529,7 @@
             "open_issues": 4,
             "owner": "allenai",
             "repo": "satlas",
-            "stars": 283,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3643,8 +3643,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:05:47Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-04T14:31:50Z",
+            "open_issues": 16,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3731,7 +3731,7 @@
             "open_issues": 3,
             "owner": "Luo-Z13",
             "repo": "SkySense-Chat",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3878,7 +3878,7 @@
             "open_issues": 3,
             "owner": "MitsuiChen14",
             "repo": "DGTRS",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 724,
+            "stars": 726,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4157,8 +4157,8 @@
             "id": 1012433978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T12:44:16Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-04T16:34:33Z",
+            "open_issues": 67,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 342,
@@ -4304,7 +4304,7 @@
             "open_issues": 49,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 855,
+            "stars": 856,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4332,10 +4332,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T11:44:38Z",
-            "open_issues": 212,
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4171,
+            "stars": 4172,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:11:26.299Z",
+    "last_updated": "2026-09-05T06:54:18.343Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
