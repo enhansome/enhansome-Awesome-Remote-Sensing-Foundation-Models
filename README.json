@@ -482,7 +482,7 @@
             "open_issues": 9,
             "owner": "bair-climate-initiative",
             "repo": "scale-mae",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "waterdisappear",
             "repo": "SARATR-X",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "automatic-target-recognition",
               "foundation-models",
@@ -1131,7 +1131,7 @@
             "open_issues": 21,
             "owner": "WHU-Sigma",
             "repo": "HyperSIGMA",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1236,7 +1236,7 @@
             "open_issues": 11,
             "owner": "Jingtao-Li-CVer",
             "repo": "HyperFree",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1388,7 +1388,7 @@
             "open_issues": 9,
             "owner": "kang-wu",
             "repo": "SkySensePlusPlus",
-            "stars": 240,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1577,7 +1577,7 @@
             "open_issues": 1,
             "owner": "IGNF",
             "repo": "MAESTRO",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 731,
+            "stars": 732,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1886,7 +1886,7 @@
             "open_issues": 23,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -1974,7 +1974,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 751,
+            "stars": 752,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -2457,7 +2457,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-04T07:07:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "1e12Leon",
             "repo": "RemoteSAM",
             "stars": 247,
@@ -3144,7 +3144,7 @@
             "open_issues": 11,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 200,
+            "stars": 203,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3192,8 +3192,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:31:50Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-07T09:19:16Z",
+            "open_issues": 7,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -3238,7 +3238,7 @@
             "open_issues": 23,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3493,10 +3493,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-06T17:59:58Z",
-            "open_issues": 213,
+            "open_issues": 217,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4172,
+            "stars": 4175,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3643,8 +3643,8 @@
             "id": 578635813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:31:50Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-07T09:19:16Z",
+            "open_issues": 7,
             "owner": "ServiceNow",
             "repo": "geo-bench",
             "stars": 195,
@@ -4014,7 +4014,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-04T07:07:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "1e12Leon",
             "repo": "RemoteSAM",
             "stars": 247,
@@ -4080,7 +4080,7 @@
             "open_issues": 6,
             "owner": "PeihaoWu",
             "repo": "SOMA-1M",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 731,
+            "stars": 732,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4157,7 +4157,7 @@
             "id": 1012433978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:34:33Z",
+            "last_commit": "2026-09-07T12:38:00Z",
             "open_issues": 57,
             "owner": "ucam-eo",
             "repo": "geotessera",
@@ -4233,7 +4233,7 @@
             "open_issues": 23,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4332,10 +4332,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-06T17:59:58Z",
-            "open_issues": 213,
+            "open_issues": 217,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4172,
+            "stars": 4175,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:16:59.308Z",
+    "last_updated": "2026-09-08T07:12:10.412Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
