@@ -234,7 +234,7 @@
             "open_issues": 19,
             "owner": "comeony",
             "repo": "RingMo",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1388,7 +1388,7 @@
             "open_issues": 9,
             "owner": "kang-wu",
             "repo": "SkySensePlusPlus",
-            "stars": 241,
+            "stars": 242,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1729,7 +1729,7 @@
             "open_issues": 24,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 305,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1861,7 +1861,7 @@
             "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315,
+            "stars": 317,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -2048,7 +2048,7 @@
             "open_issues": 35,
             "owner": "NJU-LHRS",
             "repo": "LHRS-Bot",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2069,7 +2069,7 @@
             "open_issues": 5,
             "owner": "VisionXLab",
             "repo": "GeoGround",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2300,7 +2300,7 @@
             "open_issues": 35,
             "owner": "NJU-LHRS",
             "repo": "LHRS-Bot",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2607,7 +2607,7 @@
             "open_issues": 3,
             "owner": "NKU-HLT",
             "repo": "UniChange",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3144,7 +3144,7 @@
             "open_issues": 11,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3280,7 +3280,7 @@
             "open_issues": 3,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-VLM",
-            "stars": 117,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3622,7 +3622,7 @@
             "open_issues": 4,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 315,
+            "stars": 317,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T12:38:00Z",
-            "open_issues": 59,
+            "open_issues": 58,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 343,
@@ -4275,7 +4275,7 @@
             "open_issues": 9,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "earth-observation",
               "embeddings",
@@ -4304,7 +4304,7 @@
             "open_issues": 49,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 857,
+            "stars": 858,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:15:50.233Z",
+    "last_updated": "2026-09-11T07:14:37.127Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1929,
+      "stars": 1930,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
