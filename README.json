@@ -710,7 +710,7 @@
             "id": 768175197,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-09-30T14:43:17Z",
+            "last_commit": "2026-09-18T11:29:36Z",
             "open_issues": 4,
             "owner": "techmn",
             "repo": "satmae_pp",
@@ -1278,7 +1278,7 @@
             "open_issues": 15,
             "owner": "gastruc",
             "repo": "AnySat",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1451,7 +1451,7 @@
             "open_issues": 18,
             "owner": "IBM",
             "repo": "terramind",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 745,
+            "stars": 747,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T05:18:16Z",
+            "last_commit": "2026-09-19T04:15:15Z",
             "open_issues": 29,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -2019,7 +2019,7 @@
             "open_issues": 1,
             "owner": "MultimodalGeo",
             "repo": "GeoText-1652",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "drone-navigation",
               "geo-localization",
@@ -2132,7 +2132,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,8 +3492,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T03:49:28Z",
-            "open_issues": 225,
+            "last_commit": "2026-09-18T22:50:09Z",
+            "open_issues": 223,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4185,
@@ -3996,7 +3996,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 745,
+            "stars": 747,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-12T18:44:31Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 346,
@@ -4331,8 +4331,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T03:49:28Z",
-            "open_issues": 225,
+            "last_commit": "2026-09-18T22:50:09Z",
+            "open_issues": 223,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4185,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:21:36.290Z",
+    "last_updated": "2026-09-19T07:17:26.278Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1935,
+      "stars": 1937,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
