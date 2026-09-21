@@ -314,7 +314,7 @@
             "open_issues": 14,
             "owner": "sustainlab-group",
             "repo": "SatMAE",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1447,7 +1447,7 @@
             "id": 969483295,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T02:21:32Z",
+            "last_commit": "2026-09-21T02:20:29Z",
             "open_issues": 18,
             "owner": "IBM",
             "repo": "terramind",
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 749,
+            "stars": 750,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T17:21:23Z",
+            "last_commit": "2026-09-21T07:46:14Z",
             "open_issues": 29,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -1974,7 +1974,7 @@
             "open_issues": 47,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -2607,7 +2607,7 @@
             "open_issues": 3,
             "owner": "NKU-HLT",
             "repo": "UniChange",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3102,7 +3102,7 @@
             "open_issues": 3,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 109,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,8 +3492,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:50:09Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-20T23:28:24Z",
+            "open_issues": 221,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4185,
@@ -4038,7 +4038,7 @@
             "open_issues": 3,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 109,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 749,
+            "stars": 750,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-12T18:44:31Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 347,
@@ -4331,8 +4331,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:50:09Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-20T23:28:24Z",
+            "open_issues": 221,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4185,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:42:16.797Z",
+    "last_updated": "2026-09-21T07:54:57.291Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1938,
+      "stars": 1939,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
