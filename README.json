@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T02:51:49Z",
+            "last_commit": "2026-09-26T17:43:17Z",
             "open_issues": 30,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -2502,7 +2502,7 @@
             "open_issues": 4,
             "owner": "tsinghua-fib-lab",
             "repo": "UrbanLLaVA",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3102,7 +3102,7 @@
             "open_issues": 2,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 111,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3144,7 +3144,7 @@
             "open_issues": 12,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -4038,7 +4038,7 @@
             "open_issues": 2,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 111,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:35:03.171Z",
+    "last_updated": "2026-09-27T08:02:43.655Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
