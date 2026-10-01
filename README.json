@@ -990,7 +990,7 @@
             "open_issues": 11,
             "owner": "nasa-nccs-hpda",
             "repo": "pytorch-caney",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "waterdisappear",
             "repo": "SARATR-X",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "automatic-target-recognition",
               "foundation-models",
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 752,
+            "stars": 753,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,8 +1725,8 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T06:15:46Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-01T06:58:02Z",
+            "open_issues": 30,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
             "stars": 315,
@@ -1861,7 +1861,7 @@
             "open_issues": 5,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 320,
+            "stars": 322,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -3492,8 +3492,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:03:55Z",
-            "open_issues": 213,
+            "last_commit": "2026-09-30T20:08:59Z",
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4192,
@@ -3622,7 +3622,7 @@
             "open_issues": 5,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 320,
+            "stars": 322,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 752,
+            "stars": 753,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-21T16:41:28Z",
-            "open_issues": 78,
+            "open_issues": 80,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 351,
@@ -4275,7 +4275,7 @@
             "open_issues": 8,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "earth-observation",
               "embeddings",
@@ -4300,11 +4300,11 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:03:33Z",
+            "last_commit": "2026-09-30T12:33:15Z",
             "open_issues": 49,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,8 +4331,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:03:55Z",
-            "open_issues": 213,
+            "last_commit": "2026-09-30T20:08:59Z",
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4192,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T08:24:44.763Z",
+    "last_updated": "2026-10-01T08:48:07.428Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
