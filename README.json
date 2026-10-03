@@ -314,7 +314,7 @@
             "open_issues": 14,
             "owner": "sustainlab-group",
             "repo": "SatMAE",
-            "stars": 266,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1725,8 +1725,8 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T07:44:28Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-03T00:49:39Z",
+            "open_issues": 30,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
             "stars": 315,
@@ -3144,7 +3144,7 @@
             "open_issues": 13,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3238,7 +3238,7 @@
             "open_issues": 23,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:14:38Z",
-            "open_issues": 210,
+            "last_commit": "2026-10-02T21:47:25Z",
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4192,
+            "stars": 4193,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4107,7 +4107,7 @@
             "open_issues": 7,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "dataset",
               "earth-observation",
@@ -4122,7 +4122,7 @@
         {
           "node_type": "item",
           "title": "link",
-          "description": null,
+          "description": "ucam-eo/tessera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4148,7 +4148,7 @@
         {
           "node_type": "item",
           "title": "link",
-          "description": null,
+          "description": "ucam-eo/geotessera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4161,7 +4161,7 @@
             "open_issues": 77,
             "owner": "ucam-eo",
             "repo": "geotessera",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "geospatial-data",
               "python-package"
@@ -4233,7 +4233,7 @@
             "open_issues": 23,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4301,10 +4301,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T12:33:15Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 865,
+            "stars": 867,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:14:38Z",
-            "open_issues": 210,
+            "last_commit": "2026-10-02T21:47:25Z",
+            "open_issues": 211,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4192,
+            "stars": 4193,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4364,7 +4364,7 @@
             "id": 1091804166,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-03T13:42:24Z",
+            "last_commit": "2026-10-02T13:33:04Z",
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:24:41.240Z",
+    "last_updated": "2026-10-03T04:27:49.820Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
