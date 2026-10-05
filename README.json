@@ -1131,7 +1131,7 @@
             "open_issues": 21,
             "owner": "WHU-Sigma",
             "repo": "HyperSIGMA",
-            "stars": 392,
+            "stars": 391,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1447,7 +1447,7 @@
             "id": 969483295,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:01:27Z",
+            "last_commit": "2026-10-05T03:01:05Z",
             "open_issues": 18,
             "owner": "IBM",
             "repo": "terramind",
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 754,
+            "stars": 753,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T09:36:28Z",
+            "last_commit": "2026-10-05T07:11:51Z",
             "open_issues": 30,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 315,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1771,7 +1771,7 @@
             "open_issues": 4,
             "owner": "MiliLab",
             "repo": "SARMAE",
-            "stars": 64,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2132,7 +2132,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,8 +3492,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:16:15Z",
-            "open_issues": 212,
+            "last_commit": "2026-10-05T08:38:14Z",
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4193,
@@ -3996,7 +3996,7 @@
             "open_issues": 20,
             "owner": "TianHuiLab",
             "repo": "Falcon",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 4,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 754,
+            "stars": 753,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4157,7 +4157,7 @@
             "id": 1012433978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T07:00:58Z",
+            "last_commit": "2026-10-04T15:29:08Z",
             "open_issues": 77,
             "owner": "ucam-eo",
             "repo": "geotessera",
@@ -4301,7 +4301,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T12:33:15Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 867,
@@ -4331,8 +4331,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:16:15Z",
-            "open_issues": 212,
+            "last_commit": "2026-10-05T08:38:14Z",
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4193,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:22:06.126Z",
+    "last_updated": "2026-10-05T08:53:30.744Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
