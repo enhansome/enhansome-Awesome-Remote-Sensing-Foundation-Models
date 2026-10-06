@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T06:17:28Z",
+            "last_commit": "2026-10-06T09:44:11Z",
             "open_issues": 32,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -3496,7 +3496,7 @@
             "open_issues": 216,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4195,
+            "stars": 4196,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4103,7 +4103,7 @@
             "id": 764083955,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T01:10:24Z",
+            "last_commit": "2026-10-06T10:41:10Z",
             "open_issues": 7,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
@@ -4335,7 +4335,7 @@
             "open_issues": 216,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4195,
+            "stars": 4196,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:53:45.348Z",
+    "last_updated": "2026-10-06T10:43:13.140Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
