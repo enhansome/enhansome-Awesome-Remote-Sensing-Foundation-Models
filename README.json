@@ -377,7 +377,7 @@
             "open_issues": 12,
             "owner": "nasaharvest",
             "repo": "presto",
-            "stars": 281,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "waterdisappear",
             "repo": "SARATR-X",
-            "stars": 271,
+            "stars": 273,
             "topics": [
               "automatic-target-recognition",
               "foundation-models",
@@ -1278,7 +1278,7 @@
             "open_issues": 15,
             "owner": "gastruc",
             "repo": "AnySat",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1447,7 +1447,7 @@
             "id": 969483295,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T03:01:05Z",
+            "last_commit": "2026-10-12T03:16:45Z",
             "open_issues": 18,
             "owner": "IBM",
             "repo": "terramind",
@@ -1700,10 +1700,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-17T01:32:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 758,
+            "stars": 760,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T20:53:03Z",
+            "last_commit": "2026-10-12T08:09:30Z",
             "open_issues": 30,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 321,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1971,10 +1971,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-11-28T12:05:13Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 759,
+            "stars": 760,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -2321,7 +2321,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -2972,7 +2972,7 @@
             "open_issues": 11,
             "owner": "Chen-Yang-Liu",
             "repo": "Change-Agent",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3280,7 +3280,7 @@
             "open_issues": 3,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-VLM",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T13:21:25Z",
-            "open_issues": 208,
+            "last_commit": "2026-10-12T08:57:07Z",
+            "open_issues": 209,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4198,
+            "stars": 4199,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3899,7 +3899,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -4132,10 +4132,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-17T01:32:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 758,
+            "stars": 760,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4161,7 +4161,7 @@
             "open_issues": 79,
             "owner": "ucam-eo",
             "repo": "geotessera",
-            "stars": 354,
+            "stars": 356,
             "topics": [
               "geospatial-data",
               "python-package"
@@ -4275,7 +4275,7 @@
             "open_issues": 8,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "earth-observation",
               "embeddings",
@@ -4300,11 +4300,11 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T12:33:15Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-11T21:47:04Z",
+            "open_issues": 50,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 869,
+            "stars": 870,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T13:21:25Z",
-            "open_issues": 208,
+            "last_commit": "2026-10-12T08:57:07Z",
+            "open_issues": 209,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4198,
+            "stars": 4199,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:42:48.108Z",
+    "last_updated": "2026-10-12T09:05:29.117Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1954,
+      "stars": 1956,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
