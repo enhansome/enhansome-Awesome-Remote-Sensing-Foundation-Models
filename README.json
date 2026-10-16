@@ -662,7 +662,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-07-22T10:46:18Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "zhu-xlab",
             "repo": "DOFA",
             "stars": 216,
@@ -689,7 +689,7 @@
             "id": 765798961,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2025-02-04T14:12:12Z",
+            "last_commit": "2026-10-16T01:28:16Z",
             "open_issues": 1,
             "owner": "isaaccorley",
             "repo": "hydro-foundation-model",
@@ -1703,7 +1703,7 @@
             "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 762,
+            "stars": 764,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,8 +1725,8 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T04:14:17Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-16T06:16:54Z",
+            "open_issues": 32,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
             "stars": 323,
@@ -1840,7 +1840,7 @@
             "open_issues": 5,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 212,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1861,7 +1861,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 322,
+            "stars": 321,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -1886,7 +1886,7 @@
             "open_issues": 25,
             "owner": "ChenDelong1999",
             "repo": "RemoteCLIP",
-            "stars": 600,
+            "stars": 599,
             "topics": [
               "contrastive-language-image-pretraining",
               "remote-sensing",
@@ -2347,7 +2347,7 @@
             "open_issues": 19,
             "owner": "zqcrafts",
             "repo": "SkySense-O",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2389,7 +2389,7 @@
             "open_issues": 7,
             "owner": "shuyansy",
             "repo": "Earth-Observation-VLMs",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2460,7 +2460,7 @@
             "open_issues": 4,
             "owner": "1e12Leon",
             "repo": "RemoteSAM",
-            "stars": 252,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3098,11 +3098,11 @@
             "id": 1162386709,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-23T12:04:18Z",
+            "last_commit": "2026-10-15T15:24:48Z",
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3493,10 +3493,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T13:22:08Z",
-            "open_issues": 215,
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4203,
+            "stars": 4204,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3622,7 +3622,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 322,
+            "stars": 321,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -3689,7 +3689,7 @@
             "open_issues": 5,
             "owner": "wangzhecheng",
             "repo": "SkyScript",
-            "stars": 212,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4017,7 +4017,7 @@
             "open_issues": 4,
             "owner": "1e12Leon",
             "repo": "RemoteSAM",
-            "stars": 252,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4034,11 +4034,11 @@
             "id": 1162386709,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-23T12:04:18Z",
+            "last_commit": "2026-10-15T15:24:48Z",
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 762,
+            "stars": 764,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-04T15:29:08Z",
-            "open_issues": 79,
+            "open_issues": 82,
             "owner": "ucam-eo",
             "repo": "geotessera",
             "stars": 357,
@@ -4304,7 +4304,7 @@
             "open_issues": 52,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 872,
+            "stars": 874,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4332,10 +4332,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T13:22:08Z",
-            "open_issues": 215,
+            "open_issues": 214,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4203,
+            "stars": 4204,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4368,7 +4368,7 @@
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
-            "stars": 116,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:20:48.301Z",
+    "last_updated": "2026-10-16T07:04:25.077Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1957,
+      "stars": 1958,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
