@@ -89,7 +89,7 @@
             "open_issues": 18,
             "owner": "ServiceNow",
             "repo": "seasonal-contrast",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -110,7 +110,7 @@
             "open_issues": 33,
             "owner": "ViTAE-Transformer",
             "repo": "Remote-Sensing-RVSA",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "deep-learning",
               "foundation-model",
@@ -280,7 +280,7 @@
             "open_issues": 33,
             "owner": "ViTAE-Transformer",
             "repo": "Remote-Sensing-RVSA",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "deep-learning",
               "foundation-model",
@@ -377,7 +377,7 @@
             "open_issues": 12,
             "owner": "nasaharvest",
             "repo": "presto",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -756,7 +756,7 @@
             "open_issues": 6,
             "owner": "Jack-bo1220",
             "repo": "SkySense",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1447,7 +1447,7 @@
             "id": 969483295,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T02:23:00Z",
+            "last_commit": "2026-10-26T02:17:41Z",
             "open_issues": 18,
             "owner": "IBM",
             "repo": "terramind",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T07:00:09Z",
+            "last_commit": "2026-10-26T03:46:11Z",
             "open_issues": 35,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 345,
+            "stars": 347,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3102,7 +3102,7 @@
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3144,7 +3144,7 @@
             "open_issues": 14,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3433,7 +3433,7 @@
             "open_issues": 18,
             "owner": "ServiceNow",
             "repo": "seasonal-contrast",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3496,7 +3496,7 @@
             "open_issues": 224,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4212,
+            "stars": 4213,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4038,7 +4038,7 @@
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4103,7 +4103,7 @@
             "id": 764083955,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T17:07:16Z",
+            "last_commit": "2026-10-25T10:36:02Z",
             "open_issues": 8,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
@@ -4271,8 +4271,8 @@
             "id": 1142833038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T04:12:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T22:38:57Z",
+            "open_issues": 10,
             "owner": "cybergis",
             "repo": "rs-embed",
             "stars": 162,
@@ -4304,7 +4304,7 @@
             "open_issues": 53,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 877,
+            "stars": 878,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4335,7 +4335,7 @@
             "open_issues": 224,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4212,
+            "stars": 4213,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4368,7 +4368,7 @@
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:31:59.529Z",
+    "last_updated": "2026-10-26T07:43:18.087Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1960,
+      "stars": 1961,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
