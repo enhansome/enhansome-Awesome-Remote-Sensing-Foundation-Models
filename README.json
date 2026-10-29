@@ -68,7 +68,7 @@
             "open_issues": 3,
             "owner": "sustainlab-group",
             "repo": "geography-aware-ssl",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -529,7 +529,7 @@
             "open_issues": 6,
             "owner": "antofuller",
             "repo": "CROMA",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1236,7 +1236,7 @@
             "open_issues": 11,
             "owner": "Jingtao-Li-CVer",
             "repo": "HyperFree",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T04:37:51Z",
+            "last_commit": "2026-10-29T05:50:15Z",
             "open_issues": 33,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 352,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1771,7 +1771,7 @@
             "open_issues": 4,
             "owner": "MiliLab",
             "repo": "SARMAE",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3475,7 +3475,7 @@
             "open_issues": 4,
             "owner": "zhu-xlab",
             "repo": "SSL4EO-S12",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T16:18:19Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-29T00:59:38Z",
+            "open_issues": 225,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4216,
+            "stars": 4218,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4103,7 +4103,7 @@
             "id": 764083955,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T15:14:40Z",
+            "last_commit": "2026-10-29T08:15:33Z",
             "open_issues": 8,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
@@ -4275,7 +4275,7 @@
             "open_issues": 10,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "earth-observation",
               "embeddings",
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T16:18:19Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-29T00:59:38Z",
+            "open_issues": 225,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4216,
+            "stars": 4218,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:20:51.412Z",
+    "last_updated": "2026-10-29T08:23:05.918Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1964,
+      "stars": 1966,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
