@@ -1451,7 +1451,7 @@
             "open_issues": 18,
             "owner": "IBM",
             "repo": "terramind",
-            "stars": 328,
+            "stars": 329,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T00:09:41Z",
+            "last_commit": "2026-10-31T05:57:02Z",
             "open_issues": 33,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -2993,7 +2993,7 @@
             "open_issues": 1,
             "owner": "VisionXLab",
             "repo": "AirSpatialBot",
-            "stars": 33,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T20:17:48Z",
+            "last_commit": "2026-10-30T22:20:07Z",
             "open_issues": 225,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4220,
+            "stars": 4222,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3598,7 +3598,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-10T01:54:38Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "ZhanYang-nwpu",
             "repo": "RSVG-pytorch",
             "stars": 182,
@@ -4103,7 +4103,7 @@
             "id": 764083955,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T08:01:56Z",
+            "last_commit": "2026-10-31T07:41:46Z",
             "open_issues": 8,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
@@ -4275,7 +4275,7 @@
             "open_issues": 10,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "earth-observation",
               "embeddings",
@@ -4300,8 +4300,8 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:08:41Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-31T07:39:00Z",
+            "open_issues": 56,
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 878,
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T20:17:48Z",
+            "last_commit": "2026-10-30T22:20:07Z",
             "open_issues": 225,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4220,
+            "stars": 4222,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:31:36.798Z",
+    "last_updated": "2026-10-31T08:21:31.293Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
