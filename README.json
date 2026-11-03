@@ -356,7 +356,7 @@
             "open_issues": 12,
             "owner": "NJU-LHRS",
             "repo": "official-CMID",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1131,7 +1131,7 @@
             "open_issues": 21,
             "owner": "WHU-Sigma",
             "repo": "HyperSIGMA",
-            "stars": 395,
+            "stars": 394,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T17:20:46Z",
+            "last_commit": "2026-11-02T23:49:02Z",
             "open_issues": 33,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2111,7 +2111,7 @@
             "open_issues": 2,
             "owner": "xiong-zhitong",
             "repo": "DOFA-CLIP",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2586,7 +2586,7 @@
             "open_issues": 0,
             "owner": "nanocm",
             "repo": "GeoEyes",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2744,7 +2744,7 @@
             "open_issues": 11,
             "owner": "samar-khanna",
             "repo": "DiffusionSat",
-            "stars": 240,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2855,7 +2855,7 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "satclip",
-            "stars": 378,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3102,7 +3102,7 @@
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T05:57:27Z",
+            "last_commit": "2026-11-02T17:24:56Z",
             "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4222,
+            "stars": 4227,
             "topics": [
               "computer-vision",
               "datasets",
@@ -3571,7 +3571,7 @@
             "open_issues": 34,
             "owner": "ViTAE-Transformer",
             "repo": "SAMRS",
-            "stars": 385,
+            "stars": 384,
             "topics": [
               "dataset",
               "deep-learning",
@@ -3975,7 +3975,7 @@
             "open_issues": 2,
             "owner": "xiong-zhitong",
             "repo": "DOFA-CLIP",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4038,7 +4038,7 @@
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4059,7 +4059,7 @@
             "open_issues": 0,
             "owner": "nanocm",
             "repo": "GeoEyes",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4080,7 +4080,7 @@
             "open_issues": 6,
             "owner": "PeihaoWu",
             "repo": "SOMA-1M",
-            "stars": 39,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4103,8 +4103,8 @@
             "id": 764083955,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T17:59:49Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-02T18:42:35Z",
+            "open_issues": 9,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
             "stars": 235,
@@ -4275,7 +4275,7 @@
             "open_issues": 8,
             "owner": "cybergis",
             "repo": "rs-embed",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "earth-observation",
               "embeddings",
@@ -4304,7 +4304,7 @@
             "open_issues": 56,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T05:57:27Z",
+            "last_commit": "2026-11-02T17:24:56Z",
             "open_issues": 212,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4222,
+            "stars": 4227,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:20:57.552Z",
+    "last_updated": "2026-11-03T09:27:00.373Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
