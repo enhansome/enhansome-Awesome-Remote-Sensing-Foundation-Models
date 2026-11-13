@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "waterdisappear",
             "repo": "SAR-JEPA",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "automatic-target-recognition",
               "self-supervised-learning",
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "waterdisappear",
             "repo": "SARATR-X",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "automatic-target-recognition",
               "foundation-models",
@@ -1577,7 +1577,7 @@
             "open_issues": 1,
             "owner": "IGNF",
             "repo": "MAESTRO",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1661,7 +1661,7 @@
             "open_issues": 1,
             "owner": "VisionXLab",
             "repo": "CrossEarth-SAR",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1699,11 +1699,11 @@
             "id": 974875386,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-17T01:32:22Z",
+            "last_commit": "2026-11-12T11:57:15Z",
             "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 777,
+            "stars": 779,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T03:19:23Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-13T02:51:41Z",
+            "open_issues": 35,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3102,7 +3102,7 @@
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3144,7 +3144,7 @@
             "open_issues": 17,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 232,
+            "stars": 236,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T09:40:36Z",
-            "open_issues": 218,
+            "last_commit": "2026-11-13T07:47:27Z",
+            "open_issues": 219,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4242,
+            "stars": 4245,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4038,7 +4038,7 @@
             "open_issues": 1,
             "owner": "mbzuai-oryx",
             "repo": "OpenEarthAgent",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4131,11 +4131,11 @@
             "id": 974875386,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-17T01:32:22Z",
+            "last_commit": "2026-11-12T11:57:15Z",
             "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 777,
+            "stars": 779,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4185,7 +4185,7 @@
             "open_issues": 1,
             "owner": "shuangchencc",
             "repo": "ESD",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T09:40:36Z",
-            "open_issues": 218,
+            "last_commit": "2026-11-13T07:47:27Z",
+            "open_issues": 219,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4242,
+            "stars": 4245,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4368,7 +4368,7 @@
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:43:28.034Z",
+    "last_updated": "2026-11-13T09:26:14.108Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -4390,7 +4390,7 @@
       "open_issues": 18,
       "owner": "Jack-bo1220",
       "repo": "Awesome-Remote-Sensing-Foundation-Models",
-      "stars": 1980,
+      "stars": 1981,
       "topics": []
     },
     "original_repository_sha": "e6ea8d615e37f9ecca0e46b13facc460e90a3522",
