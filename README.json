@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "waterdisappear",
             "repo": "SAR-JEPA",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "automatic-target-recognition",
               "self-supervised-learning",
@@ -1078,7 +1078,7 @@
             "open_issues": 4,
             "owner": "KyanChen",
             "repo": "DynamicVis",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "change-detection",
               "computer-vision",
@@ -1275,7 +1275,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-10-16T07:44:11Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "gastruc",
             "repo": "AnySat",
             "stars": 219,
@@ -1294,8 +1294,8 @@
             "homepage": null,
             "id": 996154937,
             "language": "Python",
-            "license": null,
-            "last_commit": "2025-06-09T05:14:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-13T14:12:00Z",
             "open_issues": 3,
             "owner": "mbzuai-oryx",
             "repo": "TerraFM",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T02:51:41Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-14T00:03:58Z",
+            "open_issues": 37,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3196,7 +3196,7 @@
             "open_issues": 6,
             "owner": "ServiceNow",
             "repo": "geo-bench",
-            "stars": 198,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3277,7 +3277,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-09T14:58:59Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-VLM",
             "stars": 120,
@@ -3492,8 +3492,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T07:47:27Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-13T21:43:26Z",
+            "open_issues": 228,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4245,
@@ -3647,7 +3647,7 @@
             "open_issues": 6,
             "owner": "ServiceNow",
             "repo": "geo-bench",
-            "stars": 198,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4107,7 +4107,7 @@
             "open_issues": 9,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "dataset",
               "earth-observation",
@@ -4331,8 +4331,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T07:47:27Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-13T21:43:26Z",
+            "open_issues": 228,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4245,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:26:14.108Z",
+    "last_updated": "2026-11-14T08:54:40.961Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
