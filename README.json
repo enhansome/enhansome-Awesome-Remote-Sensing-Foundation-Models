@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "vladan-stojnic",
             "repo": "CMC-RSSR",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "classification",
               "contrastive-learning",
@@ -665,7 +665,7 @@
             "open_issues": 7,
             "owner": "zhu-xlab",
             "repo": "DOFA",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "earth-observation",
               "earth-science",
@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "waterdisappear",
             "repo": "SAR-JEPA",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "automatic-target-recognition",
               "self-supervised-learning",
@@ -1320,7 +1320,7 @@
             "open_issues": 22,
             "owner": "nasaharvest",
             "repo": "galileo",
-            "stars": 204,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 6,
             "owner": "MiliLab",
             "repo": "RoMA",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1725,7 +1725,7 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T00:32:36Z",
+            "last_commit": "2026-11-17T21:31:55Z",
             "open_issues": 37,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
@@ -1861,7 +1861,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -1974,7 +1974,7 @@
             "open_issues": 48,
             "owner": "mbzuai-oryx",
             "repo": "GeoChat",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "remote-sensing",
               "vlm"
@@ -2321,7 +2321,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -2389,7 +2389,7 @@
             "open_issues": 7,
             "owner": "shuyansy",
             "repo": "Earth-Observation-VLMs",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2607,7 +2607,7 @@
             "open_issues": 3,
             "owner": "NKU-HLT",
             "repo": "UniChange",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3235,7 +3235,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2025-07-17T07:59:25Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
             "stars": 291,
@@ -3259,7 +3259,7 @@
             "open_issues": 0,
             "owner": "ShawnAn-WHU",
             "repo": "CHOICE",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3622,7 +3622,7 @@
             "open_issues": 6,
             "owner": "om-ai-lab",
             "repo": "RS5M",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "foundation-models",
               "remote-sensing",
@@ -3899,7 +3899,7 @@
             "open_issues": 10,
             "owner": "hiyamdebary",
             "repo": "EarthDial",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "foundation-models",
               "large-multimodal-models",
@@ -4157,11 +4157,11 @@
             "id": 1012433978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T09:27:47Z",
+            "last_commit": "2026-11-17T16:05:03Z",
             "open_issues": 89,
             "owner": "ucam-eo",
             "repo": "geotessera",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "geospatial-data",
               "python-package"
@@ -4230,7 +4230,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2025-07-17T07:59:25Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "VMarsocci",
             "repo": "pangaea-bench",
             "stars": 291,
@@ -4271,8 +4271,8 @@
             "id": 1142833038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:54:55Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-17T22:51:05Z",
+            "open_issues": 8,
             "owner": "cybergis",
             "repo": "rs-embed",
             "stars": 170,
@@ -4300,8 +4300,8 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T14:47:44Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-18T09:26:18Z",
+            "open_issues": 60,
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 881,
@@ -4364,7 +4364,7 @@
             "id": 1091804166,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-02T13:33:04Z",
+            "last_commit": "2026-11-17T16:10:05Z",
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:36:41.855Z",
+    "last_updated": "2026-11-18T10:02:04.898Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
