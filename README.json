@@ -1232,7 +1232,7 @@
             "id": 954547975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T09:09:52Z",
+            "last_commit": "2026-11-20T19:45:24Z",
             "open_issues": 11,
             "owner": "Jingtao-Li-CVer",
             "repo": "HyperFree",
@@ -1703,7 +1703,7 @@
             "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 786,
+            "stars": 791,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1725,11 +1725,11 @@
             "id": 916304113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T21:53:34Z",
+            "last_commit": "2026-11-21T00:09:20Z",
             "open_issues": 37,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 369,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1771,7 +1771,7 @@
             "open_issues": 4,
             "owner": "MiliLab",
             "repo": "SARMAE",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2765,7 +2765,7 @@
             "open_issues": 7,
             "owner": "LiPang",
             "repo": "HSIGene",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2993,7 +2993,7 @@
             "open_issues": 1,
             "owner": "VisionXLab",
             "repo": "AirSpatialBot",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3280,7 +3280,7 @@
             "open_issues": 2,
             "owner": "The-AI-Alliance",
             "repo": "GEO-Bench-VLM",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3492,8 +3492,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T00:59:42Z",
-            "open_issues": 220,
+            "last_commit": "2026-11-20T21:45:46Z",
+            "open_issues": 221,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4243,
@@ -4135,7 +4135,7 @@
             "open_issues": 5,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 786,
+            "stars": 791,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4157,11 +4157,11 @@
             "id": 1012433978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T16:36:41Z",
+            "last_commit": "2026-11-20T17:07:18Z",
             "open_issues": 52,
             "owner": "ucam-eo",
             "repo": "geotessera",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "geospatial-data",
               "python-package"
@@ -4300,11 +4300,11 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T07:53:36Z",
-            "open_issues": 60,
+            "last_commit": "2026-11-20T14:34:50Z",
+            "open_issues": 57,
             "owner": "torchgeo",
             "repo": "terratorch",
-            "stars": 881,
+            "stars": 882,
             "topics": [
               "ai4good",
               "ai4science",
@@ -4331,8 +4331,8 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T00:59:42Z",
-            "open_issues": 220,
+            "last_commit": "2026-11-20T21:45:46Z",
+            "open_issues": 221,
             "owner": "torchgeo",
             "repo": "torchgeo",
             "stars": 4243,
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:56:48.509Z",
+    "last_updated": "2026-11-21T09:39:27.567Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
