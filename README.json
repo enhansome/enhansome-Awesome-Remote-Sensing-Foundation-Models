@@ -665,7 +665,7 @@
             "open_issues": 7,
             "owner": "zhu-xlab",
             "repo": "DOFA",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "earth-observation",
               "earth-science",
@@ -1388,7 +1388,7 @@
             "open_issues": 9,
             "owner": "kang-wu",
             "repo": "SkySensePlusPlus",
-            "stars": 252,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 6,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 805,
+            "stars": 808,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -1729,7 +1729,7 @@
             "open_issues": 37,
             "owner": "allenai",
             "repo": "olmoearth_pretrain",
-            "stars": 372,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -2972,7 +2972,7 @@
             "open_issues": 11,
             "owner": "Chen-Yang-Liu",
             "repo": "Change-Agent",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -3144,7 +3144,7 @@
             "open_issues": 16,
             "owner": "opendatalab",
             "repo": "Earth-Agent",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "earth-agent",
               "earth-bench",
@@ -3492,11 +3492,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T20:25:37Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-26T15:56:41Z",
+            "open_issues": 216,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4250,
+            "stars": 4251,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4103,7 +4103,7 @@
             "id": 764083955,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T08:48:42Z",
+            "last_commit": "2026-11-26T14:14:26Z",
             "open_issues": 9,
             "owner": "ESA-PhiLab",
             "repo": "Major-TOM",
@@ -4135,7 +4135,7 @@
             "open_issues": 6,
             "owner": "ucam-eo",
             "repo": "tessera",
-            "stars": 805,
+            "stars": 808,
             "topics": [
               "foundation-models",
               "machine-learning",
@@ -4300,8 +4300,8 @@
             "id": 801016442,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T08:24:48Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-27T10:23:47Z",
+            "open_issues": 66,
             "owner": "torchgeo",
             "repo": "terratorch",
             "stars": 887,
@@ -4331,11 +4331,11 @@
             "id": 369428935,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T20:25:37Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-26T15:56:41Z",
+            "open_issues": 216,
             "owner": "torchgeo",
             "repo": "torchgeo",
-            "stars": 4250,
+            "stars": 4251,
             "topics": [
               "computer-vision",
               "datasets",
@@ -4368,7 +4368,7 @@
             "open_issues": 0,
             "owner": "hfangcat",
             "repo": "Awesome-Geospatial-Embeddings",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:45.714Z"
@@ -4378,7 +4378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:45:34.173Z",
+    "last_updated": "2026-11-27T10:46:17.365Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
